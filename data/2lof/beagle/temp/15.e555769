@@ -1,0 +1,60 @@
+[tabix] the index file exists. Please use '-f' to overwrite.
+The following parameters are available.  Ones with "[]" are in effect:
+
+Available Options
+      Basic Input/Output: --inVcf [All_samples_Exome_QC.gz], --inBgen []
+                          --inBgenSample [], --inKgg []
+                          --out [All_samples_Exome_QC.rvtest.burden]
+                          --outputRaw
+       Specify Covariate: --covar [], --covar-name [], --sex
+       Specify Phenotype: --pheno [All_samples_Exome_QC.phen], --inverseNormal
+                          --useResidualAsPhenotype, --mpheno [15]
+                          --pheno-name [], --qtl, --multiplePheno []
+        Specify Genotype: --dosage [], --multipleAllele
+    Chromosome X Options: --xLabel [], --xParRegion []
+           People Filter: --peopleIncludeID [], --peopleIncludeFile []
+                          --peopleExcludeID [], --peopleExcludeFile []
+             Site Filter: --rangeList [], --rangeFile [], --siteFile []
+                          --siteDepthMin [], --siteDepthMax [], --siteMACMin []
+                          --annoType []
+         Genotype Filter: --indvDepthMin [], --indvDepthMax [], --indvQualMin []
+       Association Model: --single [], --burden [cmc], --vt [price]
+                          --kernel [skat,kbac], --meta []
+     Family-based Models: --kinship [], --xHemiKinship [], --kinshipEigen []
+                          --xHemiKinshipEigen [], --boltPlink []
+                          --boltPlinkNoCheck
+          Grouping Unit : --geneFile [refFlat_hg19.txt.gz], --gene []
+                          --setList [], --setFile [], --set []
+        Frequency Cutoff: --freqUpper [], --freqLower []
+            Missing Data: --impute [], --imputePheno, --imputeCov
+    Conditional Analysis: --condition []
+     Auxiliary Functions: --noweb, --hide-covar, --numThread [], --outputID
+                          --help
+
+Effective Options
+    --inVcf All_samples_Exome_QC.gz
+    --out All_samples_Exome_QC.rvtest.burden
+    --pheno All_samples_Exome_QC.phen
+    --mpheno 15
+    --burden cmc
+    --vt price
+    --kernel skat,kbac
+    --geneFile refFlat_hg19.txt.gz
+
+connect() timeout zhanxw.com:80
+Retrieve remote version failed, use '--noweb' to skip.
+[INFO]	Program version: 20171009
+[INFO]	Analysis started at: Fri Jun 14 17:59:24 2019
+[WARN] File name does not look like a VCF/BCF file.
+[INFO]	Loaded [ 256 ] samples from genotype files
+[INFO]	Loaded [ 256 ] sample phenotypes
+[INFO]	Loaded 0 male, 0 female and 256 sex-unknown samples from All_samples_Exome_QC.phen
+[INFO]	Analysis begins with [ 256 ] samples...
+[INFO]	Price's VT test significance will be evaluated using 10000 permutations at alpha = 0.05
+[INFO]	SKAT test significance will be evaluated using 10000 permutations at alpha = 0.05 weight = Beta[beta1 = 1.00, beta2 = 25.00]
+[INFO]	KBAC test significance will be evaluated using 10000 permutations at alpha = 0.05
+[INFO]	Loaded [ 22480 ] genes.
+[INFO]	Impute missing genotype to mean (by default)
+[INFO]	Analysis started
+[ERROR] Cannot read VCF by range, please verify you have the index file(or create one using tabix).
+Quitting.../cm/local/apps/torque/var/spool/mom_priv/jobs/555769.bright.cm.cluster.SC: line 9: 22624 Aborted                 rvtest --inVcf All_samples_Exome_QC.gz --pheno All_samples_Exome_QC.phen --mpheno 15 --out All_samples_Exome_QC.rvtest.burden --geneFile refFlat_hg19.txt.gz --burden cmc --vt price --kernel skat,kbac

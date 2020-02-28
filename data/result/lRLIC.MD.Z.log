@@ -1,0 +1,21 @@
+PLINK v1.90a 64-bit (9 Jan 2014) 
+17 arguments: --bfile All_samples_Exome_QC --ci 0.95 --covar All_samples_Exome_QC.cov --linear --maf 0.01 --mpheno 32 --out lRLIC.MD.Z --pheno All_samples_Exome_QC.phen --remove excludeSample.txt
+Hostname: compute-013
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/autism/data
+Start time: Tue Mar 27 17:20:08 2018
+
+64508 MB RAM detected; reserving 32254 MB for main workspace.
+2650541 variants and 256 people (71 males, 0 females, 185 ambiguous) loaded.
+70 quantitative phenotypes present (179 missing).
+Using 1 thread (no multithreaded calculations invoked).
+--covar: 1 covariate loaded.
+14 people had missing value(s).
+Calculating allele frequencies... done.
+Warning: 28668 het. haploid genotypes present (see lRLIC.MD.Z.hh).
+Warning: Nonmissing nonmale Y chromosome genotype(s) present.
+Total genotyping rate in remaining individuals is 0.973559.
+1031667 variants removed due to MAF threshold(s) (--maf/--max-maf).
+1618874 variants and 249 people pass filters and QC.
+Writing linear model association results to lRLIC.MD.Z.assoc.linear... done.
+
+End time: Tue Mar 27 17:22:19 2018

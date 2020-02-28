@@ -1,0 +1,14 @@
+
+VCFtools - v0.1.13
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf All_samples_Exome_QC.chr18.vcf.DR2L0.8.vcf
+	--out All_samples_Exome_QC.chr18.vcf.DR2L0.8.lof.vcf
+	--recode
+	--snps LOF.hg19.sort.txt
+
+After filtering, kept 256 out of 256 Individuals
+Outputting VCF file...
+After filtering, kept 60 out of a possible 279792 Sites
+Run Time = 1.00 seconds

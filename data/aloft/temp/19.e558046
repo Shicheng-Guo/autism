@@ -1,0 +1,2 @@
+mkdir: cannot create directory `./temp/chr19': File exists
+ERROR: invalid ALT allele at 19:1046907 [-]

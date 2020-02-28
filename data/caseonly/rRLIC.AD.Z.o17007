@@ -1,0 +1,35 @@
+PLINK v1.90p 64-bit (21 Feb 2018)              www.cog-genomics.org/plink/1.9/
+(C) 2005-2018 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to rRLIC.AD.Z.nonage.log.
+Options in effect:
+  --allow-no-sex
+  --bfile All_samples_Exome_QC
+  --ci 0.95
+  --covar All_samples_Exome_QC.cov
+  --keep case.ind
+  --linear mperm=50000
+  --maf 0.01
+  --mpheno 36
+  --out rRLIC.AD.Z.nonage
+  --pheno All_samples_Exome_QC.phen
+  --seed 6377474
+
+64508 MB RAM detected; reserving 32254 MB for main workspace.
+2650541 variants loaded from .bim file.
+256 people (71 males, 0 females, 185 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to rRLIC.AD.Z.nonage.nosex .
+242 phenotype values present after --pheno.
+--keep: 137 people remaining.
+Using up to 15 threads (change this with --threads).
+--covar: 1 covariate loaded.
+Before main variant filters, 137 founders and 0 nonfounders present.
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Total genotyping rate in remaining samples is 0.969337.
+1024972 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+1625569 variants and 137 people pass filters and QC.
+Phenotype data is quantitative.
+Writing linear model association results to rRLIC.AD.Z.nonage.assoc.linear ...
+0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%88%89%90%91%92%93%94%95%96%97%98%99%done.
+512 permutations complete.1024 permutations complete.1536 permutations complete.2048 permutations complete.2560 permutations complete.3072 permutations complete.3584 permutations complete.4096 permutations complete.4608 permutations complete.5120 permutations complete.5632 permutations complete.6144 permutations complete.6656 permutations complete.7168 permutations complete.7680 permutations complete.8192 permutations complete.8704 permutations complete.9216 permutations complete.9728 permutations complete.10240 permutations complete.10752 permutations complete.11264 permutations complete.11776 permutations complete.12288 permutations complete.12800 permutations complete.13312 permutations complete.13824 permutations complete.14336 permutations complete.14848 permutations complete.15360 permutations complete.15872 permutations complete.16384 permutations complete.16896 permutations complete.17408 permutations complete.17920 permutations complete.18432 permutations complete.18944 permutations complete.19456 permutations complete.19968 permutations complete.20480 permutations complete.20992 permutations complete.21504 permutations complete.22016 permutations complete.22528 permutations complete.23040 permutations complete.23552 permutations complete.24064 permutations complete.24576 permutations complete.25088 permutations complete.25600 permutations complete.26112 permutations complete.26624 permutations complete.27136 permutations complete.27648 permutations complete.28160 permutations complete.28672 permutations complete.29184 permutations complete.29696 permutations complete.30208 permutations complete.30720 permutations complete.31232 permutations complete.31744 permutations complete.32256 permutations complete.32768 permutations complete.33280 permutations complete.33792 permutations complete.34304 permutations complete.34816 permutations complete.35328 permutations complete.35840 permutations complete.36352 permutations complete.36864 permutations complete.37376 permutations complete.37888 permutations complete.38400 permutations complete.38912 permutations complete.39424 permutations complete.39936 permutations complete.40448 permutations complete.40960 permutations complete.41472 permutations complete.41984 permutations complete.42496 permutations complete.43008 permutations complete.43520 permutations complete.44032 permutations complete.44544 permutations complete.45056 permutations complete.45568 permutations complete.46080 permutations complete.46592 permutations complete.47104 permutations complete.47616 permutations complete.48128 permutations complete.48640 permutations complete.49152 permutations complete.49664 permutations complete.50000 max(T) permutations complete.
+Permutation test report written to rRLIC.AD.Z.nonage.assoc.linear.mperm .

@@ -1,0 +1,233 @@
+beagle.16May19.351.jar (version 5.0)
+Copyright (C) 2014-2018 Brian L. Browning
+Enter "java -jar beagle.16May19.351.jar" to list command line argument
+Start time: 10:23 PM CDT on 13 Jun 2019
+
+Command line: java -Xmx29127m -jar beagle.16May19.351.jar
+  gt=All_samples_Exome_QC.temp.vcf.recode.clean.chr2.vcf.recode.vcf
+  ref=/home/guosa/hpc/db/hg19/beagle/EUR/chr2.1kg.phase3.v5a.EUR.vcf.gz
+  map=/home/guosa/hpc/db/hg19/beagle/plink.chr2.GRCh37.map
+  out=All_samples_Exome_QC.chr2.vcf
+
+Reference samples:         503
+Study samples:             256
+
+Window 1 (2:10179-18145021)
+Reference markers:     222,665
+Study markers:          12,733
+
+Burnin  iteration 1:           5 seconds
+Burnin  iteration 2:           3 seconds
+Burnin  iteration 3:           3 seconds
+Burnin  iteration 4:           2 seconds
+Burnin  iteration 5:           3 seconds
+Burnin  iteration 6:           3 seconds
+
+Phasing iteration 1:           2 seconds
+Phasing iteration 2:           2 seconds
+Phasing iteration 3:           2 seconds
+Phasing iteration 4:           2 seconds
+Phasing iteration 5:           4 seconds
+Phasing iteration 6:           2 seconds
+Phasing iteration 7:           2 seconds
+Phasing iteration 8:           2 seconds
+Phasing iteration 9:           2 seconds
+Phasing iteration 10:          2 seconds
+Phasing iteration 11:          2 seconds
+Phasing iteration 12:          2 seconds
+
+Imputation time:               15 seconds
+
+Window 2 (2:15723029-47323724)
+Reference markers:     373,974
+Study markers:          20,427
+
+Burnin  iteration 1:           4 seconds
+Burnin  iteration 2:           3 seconds
+Burnin  iteration 3:           3 seconds
+Burnin  iteration 4:           3 seconds
+Burnin  iteration 5:           4 seconds
+Burnin  iteration 6:           4 seconds
+
+Phasing iteration 1:           3 seconds
+Phasing iteration 2:           3 seconds
+Phasing iteration 3:           3 seconds
+Phasing iteration 4:           3 seconds
+Phasing iteration 5:           3 seconds
+Phasing iteration 6:           3 seconds
+Phasing iteration 7:           3 seconds
+Phasing iteration 8:           3 seconds
+Phasing iteration 9:           3 seconds
+Phasing iteration 10:          3 seconds
+Phasing iteration 11:          2 seconds
+Phasing iteration 12:          3 seconds
+
+Imputation time:               14 seconds
+
+Window 3 (2:45414437-84387050)
+Reference markers:     451,875
+Study markers:          24,250
+
+Burnin  iteration 1:           4 seconds
+Burnin  iteration 2:           4 seconds
+Burnin  iteration 3:           3 seconds
+Burnin  iteration 4:           4 seconds
+Burnin  iteration 5:           5 seconds
+Burnin  iteration 6:           5 seconds
+
+Phasing iteration 1:           4 seconds
+Phasing iteration 2:           3 seconds
+Phasing iteration 3:           3 seconds
+Phasing iteration 4:           3 seconds
+Phasing iteration 5:           3 seconds
+Phasing iteration 6:           3 seconds
+Phasing iteration 7:           3 seconds
+Phasing iteration 8:           3 seconds
+Phasing iteration 9:           3 seconds
+Phasing iteration 10:          3 seconds
+Phasing iteration 11:          3 seconds
+Phasing iteration 12:          3 seconds
+
+Imputation time:               16 seconds
+
+Window 4 (2:79507059-129745127)
+Reference markers:     473,165
+Study markers:          21,027
+
+Burnin  iteration 1:           5 seconds
+Burnin  iteration 2:           3 seconds
+Burnin  iteration 3:           3 seconds
+Burnin  iteration 4:           3 seconds
+Burnin  iteration 5:           4 seconds
+Burnin  iteration 6:           4 seconds
+
+Phasing iteration 1:           3 seconds
+Phasing iteration 2:           3 seconds
+Phasing iteration 3:           3 seconds
+Phasing iteration 4:           3 seconds
+Phasing iteration 5:           3 seconds
+Phasing iteration 6:           3 seconds
+Phasing iteration 7:           3 seconds
+Phasing iteration 8:           3 seconds
+Phasing iteration 9:           3 seconds
+Phasing iteration 10:          3 seconds
+Phasing iteration 11:          3 seconds
+Phasing iteration 12:          3 seconds
+
+Imputation time:               15 seconds
+
+Window 5 (2:125447289-171210196)
+Reference markers:     486,111
+Study markers:          22,437
+
+Burnin  iteration 1:           4 seconds
+Burnin  iteration 2:           3 seconds
+Burnin  iteration 3:           3 seconds
+Burnin  iteration 4:           3 seconds
+Burnin  iteration 5:           4 seconds
+Burnin  iteration 6:           4 seconds
+
+Phasing iteration 1:           3 seconds
+Phasing iteration 2:           3 seconds
+Phasing iteration 3:           3 seconds
+Phasing iteration 4:           3 seconds
+Phasing iteration 5:           3 seconds
+Phasing iteration 6:           3 seconds
+Phasing iteration 7:           3 seconds
+Phasing iteration 8:           3 seconds
+Phasing iteration 9:           3 seconds
+Phasing iteration 10:          3 seconds
+Phasing iteration 11:          3 seconds
+Phasing iteration 12:          3 seconds
+
+Imputation time:               17 seconds
+
+Window 6 (2:168438687-212785437)
+Reference markers:     455,051
+Study markers:          21,153
+
+Burnin  iteration 1:           3 seconds
+Burnin  iteration 2:           3 seconds
+Burnin  iteration 3:           3 seconds
+Burnin  iteration 4:           3 seconds
+Burnin  iteration 5:           4 seconds
+Burnin  iteration 6:           4 seconds
+
+Phasing iteration 1:           3 seconds
+Phasing iteration 2:           3 seconds
+Phasing iteration 3:           3 seconds
+Phasing iteration 4:           3 seconds
+Phasing iteration 5:           3 seconds
+Phasing iteration 6:           3 seconds
+Phasing iteration 7:           3 seconds
+Phasing iteration 8:           3 seconds
+Phasing iteration 9:           3 seconds
+Phasing iteration 10:          3 seconds
+Phasing iteration 11:          3 seconds
+Phasing iteration 12:          2 seconds
+
+Imputation time:               13 seconds
+
+Window 7 (2:208641364-236471756)
+Reference markers:     313,783
+Study markers:          16,945
+
+Burnin  iteration 1:           2 seconds
+Burnin  iteration 2:           3 seconds
+Burnin  iteration 3:           2 seconds
+Burnin  iteration 4:           3 seconds
+Burnin  iteration 5:           3 seconds
+Burnin  iteration 6:           3 seconds
+
+Phasing iteration 1:           3 seconds
+Phasing iteration 2:           2 seconds
+Phasing iteration 3:           2 seconds
+Phasing iteration 4:           2 seconds
+Phasing iteration 5:           2 seconds
+Phasing iteration 6:           2 seconds
+Phasing iteration 7:           2 seconds
+Phasing iteration 8:           2 seconds
+Phasing iteration 9:           2 seconds
+Phasing iteration 10:          2 seconds
+Phasing iteration 11:          2 seconds
+Phasing iteration 12:          2 seconds
+
+Imputation time:               12 seconds
+
+Window 8 (2:235378392-243188367)
+Reference markers:     101,935
+Study markers:           6,233
+
+Burnin  iteration 1:           1 second
+Burnin  iteration 2:           1 second
+Burnin  iteration 3:           1 second
+Burnin  iteration 4:           1 second
+Burnin  iteration 5:           1 second
+Burnin  iteration 6:           1 second
+
+Phasing iteration 1:           1 second
+Phasing iteration 2:           1 second
+Phasing iteration 3:           1 second
+Phasing iteration 4:           1 second
+Phasing iteration 5:           1 second
+Phasing iteration 6:           1 second
+Phasing iteration 7:           1 second
+Phasing iteration 8:           1 second
+Phasing iteration 9:           1 second
+Phasing iteration 10:          1 second
+Phasing iteration 11:          1 second
+Phasing iteration 12:          1 second
+
+Imputation time:               4 seconds
+
+Cumulative Statistics:
+
+Reference markers:   2,627,240
+Study markers:         132,171
+
+Haplotype phasing time:        6 minutes 31 seconds
+Imputation time:               4 seconds
+Total time:                    8 minutes 33 seconds
+
+End time: 10:32 PM CDT on 13 Jun 2019
+beagle.16May19.351.jar finished

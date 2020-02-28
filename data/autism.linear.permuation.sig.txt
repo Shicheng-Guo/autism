@@ -1,0 +1,4 @@
+Phen	CHR	SNP	EMP1	EMP2
+lALIC.FA.Z.assoc.linear.mperm	24	rs9786510	0.00784	0.03982
+rALIC.FA.Z.assoc.linear.mperm	20	kgp180885	0.0086	0.04898
+SCC.MD.Z.assoc.linear.mperm	2	exm184366	0.0038	0.02192

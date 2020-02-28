@@ -1,0 +1,11 @@
+mkdir: cannot create directory `./temp/chrX': File exists
+Exception in thread "main" java.lang.IllegalArgumentException: No VCF records found (data source: ./chr/All_samples_Exome_QC.clean.chrX.vcf.gz)
+Check that the chromosome identifiers are the same in each input VCF
+file and in the 'chrom=' command line argument (if 'chrom=' is used).
+	at vcf.VcfIt.noRecordFoundError(VcfIt.java:225)
+	at vcf.VcfIt.start(VcfIt.java:211)
+	at vcf.VcfIt.create(VcfIt.java:184)
+	at vcf.VcfIt.create(VcfIt.java:157)
+	at main.Main.targIt(Main.java:240)
+	at main.Main.data(Main.java:144)
+	at main.Main.main(Main.java:113)

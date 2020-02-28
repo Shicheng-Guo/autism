@@ -1,0 +1,36 @@
+NOTICE: Finished reading 40591 lines from VCF file
+NOTICE: A total of 40581 locus in VCF file passed QC threshold, representing 40581 SNPs (32580 transitions and 8001 transversions) and 0 indels/substitutions
+NOTICE: Finished writing allele frequencies based on 10388736 SNP genotypes (8340480 transitions and 2048256 transversions) and 0 indels/substitutions for 256 samples
+-----------------------------------------------------------------
+NOTICE: Processing operation=gx protocol=ensGene
+
+NOTICE: Running with system command <annotate_variation.pl -geneanno -buildver hg19 -dbtype ensGene -outfile ./annovar/chr20.ensGene -exonsort ./annovar/All_samples_Exome_QC.chr20.avinput /gpfs/home/guosa/hpc/tools/annovar/humandb/ -thread 4>
+NOTICE: Output files were written to ./annovar/chr20.ensGene.variant_function, ./annovar/chr20.ensGene.exonic_variant_function
+NOTICE: the queryfile contains 40581 lines
+NOTICE: threading is disabled for gene-based annotation on file with less than 1000000 input lines
+NOTICE: Reading gene annotation from /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_ensGene.txt ... Done with 196501 transcripts (including 101155 without coding sequence annotation) for 57905 unique genes
+NOTICE: Processing next batch with 40581 unique variants in 40581 input lines
+NOTICE: Reading FASTA sequences from /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_ensGeneMrna.fa ... Done with 1508 sequences
+WARNING: A total of 6780 sequences will be ignored due to lack of correct ORF annotation
+
+NOTICE: Running with system command <coding_change.pl  ./annovar/chr20.ensGene.exonic_variant_function.orig /gpfs/home/guosa/hpc/tools/annovar/humandb//hg19_ensGene.txt /gpfs/home/guosa/hpc/tools/annovar/humandb//hg19_ensGeneMrna.fa -alltranscript -out ./annovar/chr20.ensGene.fa -newevf ./annovar/chr20.ensGene.exonic_variant_function>
+NOTICE: The xrefkey is provided in header as <pLi pRec pNull Disease_description P(HI) P(rec) RVIS RVIS_percentile GDI GDI-Phred>
+NOTICE: Finished reading 398150 cross references (each with 10 fields) from /gpfs/home/guosa/hpc/tools/annovar/humandb/gene_fullxref.txt
+-----------------------------------------------------------------
+NOTICE: Processing operation=f protocol=dbnsfp35c
+NOTICE: Finished reading 55 column headers for '-dbtype dbnsfp35c'
+
+NOTICE: Running system command <annotate_variation.pl -filter -dbtype dbnsfp35c -buildver hg19 -outfile ./annovar/chr20 ./annovar/All_samples_Exome_QC.chr20.avinput /gpfs/home/guosa/hpc/tools/annovar/humandb/ -thread 4 -otherinfo>
+NOTICE: the --dbtype dbnsfp35c is assumed to be in generic ANNOVAR database format
+NOTICE: Variants matching filtering criteria are written to ./annovar/chr20.hg19_dbnsfp35c_dropped, other variants are written to ./annovar/chr20.hg19_dbnsfp35c_filtered
+NOTICE: the queryfile contains 40581 lines
+NOTICE: Creating new threads for query line 1 to 10146
+NOTICE: Creating new threads for query line 10147 to 20292
+NOTICE: Creating new threads for query line 20293 to 30438
+NOTICE: Creating new threads for query line 30439 to 40581
+NOTICE: Processing next batch with 10146 unique variants in 10146 input lines
+NOTICE: Database index loaded. Total number of bins is 550512 and the number of bins to be scanned is 453
+NOTICE: Scanning filter database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_dbnsfp35c.txt...Done
+NOTICE: Processing next batch with 10143 unique variants in 10143 input lines
+NOTICE: Database index loaded. Total number of bins is 550512 and the number of bins to be scanned is 511
+NOTICE: Scanning filter database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_dbnsfp35c.txt...Done

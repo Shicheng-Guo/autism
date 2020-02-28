@@ -1,0 +1,15 @@
+
+VCFtools - v0.1.13
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf All_samples_Exome_QC.chr15.vcf.DR2L0.8.vcf
+	--out All_samples_Exome_QC.chr15.vcf.DR2L0.8.lof.vcf
+	--recode
+	--snps LOF.hg19.sort.txt
+
+After filtering, kept 0 out of 0 Individuals
+Outputting VCF file...
+After filtering, kept 0 out of a possible 0 Sites
+File does not contain any sites
+Run Time = 0.00 seconds

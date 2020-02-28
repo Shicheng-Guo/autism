@@ -1,0 +1,27 @@
+beagle.16May19.351.jar (version 5.0)
+Copyright (C) 2014-2018 Brian L. Browning
+Enter "java -jar beagle.16May19.351.jar" to list command line argument
+Start time: 03:53 PM CDT on 25 Jun 2019
+
+Command line: java -Xmx29127m -jar beagle.16May19.351.jar
+  gt=./chr/All_samples_Exome_QC.clean.chr22.vcf.gz
+  ref=/gpfs/home/guosa/hpc/db/hg19/beagle/EUR/chr22.1kg.phase3.v5a.EUR.vcf.gz
+  map=/gpfs/home/guosa/hpc/db/hg19/beagle/plink.chr22.GRCh37.map
+  out=All_samples_Exome_QC.chr22.vcf
+
+Reference samples:         503
+Study samples:             256
+
+Window 1 (22:16050115-35139740)
+Reference markers:     217,329
+Study markers:          13,658
+
+Burnin  iteration 1:           49 seconds
+Burnin  iteration 2:           32 seconds
+Burnin  iteration 3:           32 seconds
+Burnin  iteration 4:           37 seconds
+Burnin  iteration 5:           51 seconds
+Burnin  iteration 6:           38 seconds
+
+Phasing iteration 1:           34 seconds
+Phasing iteration 2:           34 seconds

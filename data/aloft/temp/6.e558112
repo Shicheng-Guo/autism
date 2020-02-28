@@ -1,0 +1,2 @@
+mkdir: cannot create directory `./temp/chr6': File exists
+/cm/local/apps/torque/var/spool/mom_priv/jobs/558112.bright.cm.cluster.SC: line 10:  5571 Killed                  java -Djava.io.tmpdir=./temp/chr6 -Xmx32g -jar beagle.16May19.351.jar gt=./chr/All_samples_Exome_QC.clean.chr6.vcf.gz ref=/gpfs/home/guosa/hpc/db/hg19/beagle/EUR/chr6.1kg.phase3.v5a.EUR.vcf.gz map=/gpfs/home/guosa/hpc/db/hg19/beagle/plink.chr6.GRCh37.map out=./chr/All_samples_Exome_QC.chr6.vcf

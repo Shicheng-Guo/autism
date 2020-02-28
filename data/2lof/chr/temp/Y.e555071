@@ -1,0 +1,9 @@
+Java HotSpot(TM) 64-Bit Server VM warning: Insufficient space for shared memory file:
+   28095
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+Exception in thread "main" java.lang.IllegalArgumentException: File does not exist: /gpfs/home/guosa/hpc/db/hg19/beagle/EUR/chrY.1kg.phase3.v5a.EUR.vcf.gz
+	at blbutil.Validate.getFile(Validate.java:141)
+	at main.Par.<init>(Par.java:124)
+	at main.Main.parameters(Main.java:307)
+	at main.Main.main(Main.java:107)

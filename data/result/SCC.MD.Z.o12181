@@ -1,0 +1,16 @@
+PLINK v1.90a 64-bit (9 Jan 2014)           https://www.cog-genomics.org/plink2
+(C) 2005-2014 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to SCC.MD.Z.log.
+64508 MB RAM detected; reserving 32254 MB for main workspace.
+2650541 variants and 256 people (71 males, 0 females, 185 ambiguous) loaded.
+70 quantitative phenotypes present (179 missing).
+Using 1 thread (no multithreaded calculations invoked).
+--covar: 1 covariate loaded.
+14 people had missing value(s).
+Calculating allele frequencies... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.
+Warning: 28668 het. haploid genotypes present (see SCC.MD.Z.hh).
+Warning: Nonmissing nonmale Y chromosome genotype(s) present.
+Total genotyping rate in remaining individuals is 0.973559.
+1031667 variants removed due to MAF threshold(s) (--maf/--max-maf).
+1618874 variants and 249 people pass filters and QC.
+Writing linear model association results to SCC.MD.Z.assoc.linear... 0%1%2%3%4%5%6%7%8%9%10%11%12%13%14%15%16%17%18%19%20%21%22%23%24%25%26%27%28%29%30%31%32%33%34%35%36%37%38%39%40%41%42%43%44%45%46%47%48%49%50%51%52%53%54%55%56%57%58%59%60%61%62%63%64%65%66%67%68%69%70%71%72%73%74%75%76%77%78%79%80%81%82%83%84%85%86%87%88%89%90%91%92%93%94%95%96%97%98%99% done.

@@ -1,0 +1,32 @@
+PLINK v1.90p 64-bit (21 Feb 2018)
+Options in effect:
+  --allow-no-sex
+  --bfile All_samples_Exome_QC
+  --out rs9786510
+  --recode
+  --snp rs9786510
+  --tab
+
+Hostname: birc7-lc
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/autism/data
+Start time: Fri May  4 03:12:59 2018
+
+Note: --tab flag deprecated.  Use '--recode tab ...'.
+Random number seed: 1525421579
+32112 MB RAM detected; reserving 16056 MB for main workspace.
+1 out of 2650541 variants loaded from .bim file.
+256 people (71 males, 0 females, 185 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to rs9786510.nosex .
+137 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 256 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 44 het. haploid genotypes present (see rs9786510.hh ); many commands
+treat these as missing.
+Total genotyping rate is 0.676056.
+1 variant and 256 people pass filters and QC.
+Among remaining phenotypes, 0 are cases and 137 are controls.  (119 phenotypes
+are missing.)
+--recode ped to rs9786510.ped + rs9786510.map ... done.
+
+End time: Fri May  4 03:13:00 2018

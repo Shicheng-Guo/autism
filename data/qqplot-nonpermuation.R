@@ -1,0 +1,23 @@
+library("Haplin")
+ggd.qqplot = function(pvector, main=NULL, ...) {
+  o = -log10(sort(pvector,decreasing=F))
+  e = -log10( 1:length(o)/length(o) )
+  plot(e,o,pch=19,cex=1, main=main, ...,
+       xlab=expression(Expected~~-log[10](italic(p))),
+       ylab=expression(Observed~~-log[10](italic(p))),
+       xlim=c(0,max(e)), ylim=c(0,max(o)))
+  lines(e,e,col="red")
+}
+
+set.seed(42)
+
+setwd("/mnt/bigdata/Genetic/Projects/shg047/autism/data")
+file=list.files(pattern="*Z.assoc.linear")
+for(i in 1:length(file)){
+  output=paste(strsplit(file[i],split=".Z.")[[1]][1],"png",sep=".")
+  data<-read.table(file[i],head=T)
+  png(output)
+  pQQ(na.omit(data[,ncol(data)]), conf = 0.95, mark = F,main="Genetic age adjustment in non-permutation mode") 
+  dev.off()
+  print(i)
+}

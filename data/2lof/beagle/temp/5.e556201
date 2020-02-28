@@ -1,0 +1,116 @@
+NOTICE: Finished reading 98742 lines from VCF file
+NOTICE: A total of 98732 locus in VCF file passed QC threshold, representing 98732 SNPs (78214 transitions and 20518 transversions) and 0 indels/substitutions
+NOTICE: Finished writing allele frequencies based on 25275392 SNP genotypes (20022784 transitions and 5252608 transversions) and 0 indels/substitutions for 256 samples
+-----------------------------------------------------------------
+NOTICE: Processing operation=gx protocol=refGene
+
+NOTICE: Running with system command <annotate_variation.pl -geneanno -buildver hg19 -dbtype refGene -outfile ./annovar/chr5.refGene -exonsort ./annovar/All_samples_Exome_QC.chr5.avinput /gpfs/home/guosa/hpc/tools/annovar/humandb/ -thread 4>
+NOTICE: Output files were written to ./annovar/chr5.refGene.variant_function, ./annovar/chr5.refGene.exonic_variant_function
+NOTICE: the queryfile contains 98732 lines
+NOTICE: threading is disabled for gene-based annotation on file with less than 1000000 input lines
+NOTICE: Reading gene annotation from /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_refGene.txt ... Done with 63481 transcripts (including 15216 without coding sequence annotation) for 27720 unique genes
+NOTICE: Processing next batch with 98732 unique variants in 98732 input lines
+NOTICE: Reading FASTA sequences from /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_refGeneMrna.fa ... Done with 1704 sequences
+WARNING: A total of 405 sequences will be ignored due to lack of correct ORF annotation
+
+NOTICE: Running with system command <coding_change.pl  ./annovar/chr5.refGene.exonic_variant_function.orig /gpfs/home/guosa/hpc/tools/annovar/humandb//hg19_refGene.txt /gpfs/home/guosa/hpc/tools/annovar/humandb//hg19_refGeneMrna.fa -alltranscript -out ./annovar/chr5.refGene.fa -newevf ./annovar/chr5.refGene.exonic_variant_function>
+NOTICE: The xrefkey is provided in header as <pLi pRec pNull Disease_description P(HI) P(rec) RVIS RVIS_percentile GDI GDI-Phred>
+NOTICE: Finished reading 398150 cross references (each with 10 fields) from /gpfs/home/guosa/hpc/tools/annovar/humandb/gene_fullxref.txt
+-----------------------------------------------------------------
+NOTICE: Processing operation=f protocol=dbnsfp33a
+NOTICE: Finished reading 66 column headers for '-dbtype dbnsfp33a'
+
+NOTICE: Running system command <annotate_variation.pl -filter -dbtype dbnsfp33a -buildver hg19 -outfile ./annovar/chr5 ./annovar/All_samples_Exome_QC.chr5.avinput /gpfs/home/guosa/hpc/tools/annovar/humandb/ -thread 4 -otherinfo>
+NOTICE: the --dbtype dbnsfp33a is assumed to be in generic ANNOVAR database format
+NOTICE: Variants matching filtering criteria are written to ./annovar/chr5.hg19_dbnsfp33a_dropped, other variants are written to ./annovar/chr5.hg19_dbnsfp33a_filtered
+NOTICE: the queryfile contains 98732 lines
+NOTICE: Creating new threads for query line 1 to 24683
+NOTICE: Creating new threads for query line 24684 to 49366
+NOTICE: Creating new threads for query line 49367 to 74049
+NOTICE: Creating new threads for query line 74050 to 98732
+NOTICE: Processing next batch with 24683 unique variants in 24683 input lines
+NOTICE: Database index loaded. Total number of bins is 550512 and the number of bins to be scanned is 684
+NOTICE: Scanning filter database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_dbnsfp33a.txt...Done
+NOTICE: Processing next batch with 24683 unique variants in 24683 input lines
+NOTICE: Database index loaded. Total number of bins is 550512 and the number of bins to be scanned is 931
+NOTICE: Scanning filter database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_dbnsfp33a.txt...Done
+NOTICE: Processing next batch with 24683 unique variants in 24683 input lines
+NOTICE: Database index loaded. Total number of bins is 550512 and the number of bins to be scanned is 961
+NOTICE: Scanning filter database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_dbnsfp33a.txt...Done
+NOTICE: Processing next batch with 24683 unique variants in 24683 input lines
+NOTICE: Database index loaded. Total number of bins is 550512 and the number of bins to be scanned is 1091
+NOTICE: Scanning filter database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_dbnsfp33a.txt...Done
+-----------------------------------------------------------------
+NOTICE: Processing operation=r protocol=gwasCatalog
+
+NOTICE: Running with system command <annotate_variation.pl -regionanno -dbtype gwasCatalog -buildver hg19 -outfile ./annovar/chr5 ./annovar/All_samples_Exome_QC.chr5.avinput /gpfs/home/guosa/hpc/tools/annovar/humandb/ -thread 4>
+NOTICE: Output file is written to ./annovar/chr5.hg19_gwasCatalog
+NOTICE: the queryfile contains 98732 lines
+NOTICE: Creating new threads for query line 1 to 24683
+NOTICE: Creating new threads for query line 24684 to 49366
+NOTICE: Creating new threads for query line 49367 to 74049
+NOTICE: Creating new threads for query line 74050 to 98732
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_gwasCatalog.txt ... Done with 94513 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_gwasCatalog.txt ... Done with 94513 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_gwasCatalog.txt ... Done with 94513 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_gwasCatalog.txt ... Done with 94513 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+-----------------------------------------------------------------
+NOTICE: Processing operation=r protocol=wgRna
+
+NOTICE: Running with system command <annotate_variation.pl -regionanno -dbtype wgRna -buildver hg19 -outfile ./annovar/chr5 ./annovar/All_samples_Exome_QC.chr5.avinput /gpfs/home/guosa/hpc/tools/annovar/humandb/ -thread 4>
+NOTICE: Output file is written to ./annovar/chr5.hg19_wgRna
+NOTICE: the queryfile contains 98732 lines
+NOTICE: Creating new threads for query line 1 to 24683
+NOTICE: Creating new threads for query line 24684 to 49366
+NOTICE: Creating new threads for query line 49367 to 74049
+NOTICE: Creating new threads for query line 74050 to 98732
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_wgRna.txt ... Done with 1341 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_wgRna.txt ... Done with 1341 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_wgRna.txt ... Done with 1341 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_wgRna.txt ... Done with 1341 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+-----------------------------------------------------------------
+NOTICE: Processing operation=r protocol=targetScanS
+
+NOTICE: Running with system command <annotate_variation.pl -regionanno -dbtype targetScanS -buildver hg19 -outfile ./annovar/chr5 ./annovar/All_samples_Exome_QC.chr5.avinput /gpfs/home/guosa/hpc/tools/annovar/humandb/ -thread 4>
+NOTICE: Output file is written to ./annovar/chr5.hg19_targetScanS
+NOTICE: the queryfile contains 98732 lines
+NOTICE: Creating new threads for query line 1 to 24683
+NOTICE: Creating new threads for query line 24684 to 49366
+NOTICE: Creating new threads for query line 49367 to 74049
+NOTICE: Creating new threads for query line 74050 to 98732
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_targetScanS.txt ... Done with 54199 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_targetScanS.txt ... Done with 54199 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_targetScanS.txt ... Done with 54199 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_targetScanS.txt ... Done with 54199 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+-----------------------------------------------------------------
+NOTICE: Processing operation=r protocol=tfbsConsSites
+
+NOTICE: Running with system command <annotate_variation.pl -regionanno -dbtype tfbsConsSites -buildver hg19 -outfile ./annovar/chr5 ./annovar/All_samples_Exome_QC.chr5.avinput /gpfs/home/guosa/hpc/tools/annovar/humandb/ -thread 4>
+NOTICE: Output file is written to ./annovar/chr5.hg19_tfbsConsSites
+NOTICE: the queryfile contains 98732 lines
+NOTICE: Creating new threads for query line 1 to 24683
+NOTICE: Creating new threads for query line 24684 to 49366
+NOTICE: Creating new threads for query line 49367 to 74049
+NOTICE: Creating new threads for query line 74050 to 98732
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_tfbsConsSites.txt ... Done with 5797266 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_tfbsConsSites.txt ... Done with 5797266 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_tfbsConsSites.txt ... Done with 5797266 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+NOTICE: Reading annotation database /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_tfbsConsSites.txt ... Done with 5797266 regions
+NOTICE: Finished region-based annotation on 24683 genetic variants
+-----------------------------------------------------------------
+NOTICE: Multianno output file is written to ./annovar/chr5.hg19_multianno.csv

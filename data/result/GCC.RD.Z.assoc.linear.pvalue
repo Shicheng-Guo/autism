@@ -1,0 +1,2 @@
+ CHR                 SNP         BP   A1       TEST    NMISS       BETA       SE      L95      U95         STAT            P 
+  14           rs8011867  101833831    G        ADD       56      1.792   0.2734  -0.2625   0.8093        6.556    2.339e-08

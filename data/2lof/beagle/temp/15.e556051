@@ -1,0 +1,12 @@
+NOTICE: Finished reading 48926 lines from VCF file
+NOTICE: A total of 48916 locus in VCF file passed QC threshold, representing 48916 SNPs (38686 transitions and 10230 transversions) and 0 indels/substitutions
+NOTICE: Finished writing allele frequencies based on 12522496 SNP genotypes (9903616 transitions and 2618880 transversions) and 0 indels/substitutions for 256 samples
+-----------------------------------------------------------------
+NOTICE: Processing operation=gx protocol=ensGene
+
+NOTICE: Running with system command <annotate_variation.pl -geneanno -buildver hg19 -dbtype ensGene -outfile ./annovar/chr15.ensGene -exonsort ./annovar/All_samples_Exome_QC.chr15.avinput /gpfs/home/guosa/hpc/tools/annovar/humandb/ -thread 4>
+NOTICE: Output files were written to ./annovar/chr15.ensGene.variant_function, ./annovar/chr15.ensGene.exonic_variant_function
+NOTICE: the queryfile contains 48916 lines
+NOTICE: threading is disabled for gene-based annotation on file with less than 1000000 input lines
+NOTICE: Reading gene annotation from /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_ensGene.txt ... Done with 196501 transcripts (including 101155 without coding sequence annotation) for 57905 unique genes
+NOTICE: Processing next batch with 48916 unique variants in 48916 input lines

@@ -1,0 +1,2 @@
+[W::vcf_parse] Contig '2' is not defined in the header. (Quick workaround: index the file with tabix.)
+Undefined tags in the header, cannot proceed in the sample subset mode.

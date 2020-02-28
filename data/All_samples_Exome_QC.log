@@ -1,0 +1,36 @@
+PLINK v1.90p 64-bit (21 Feb 2018)
+Options in effect:
+  --bfile All_samples_Exome_QC
+  --out All_samples_Exome_QC
+  --recode vcf
+
+Hostname: login
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/autism/data
+Start time: Wed Jun 19 02:42:33 2019
+
+Random number seed: 1560930153
+64510 MB RAM detected; reserving 32255 MB for main workspace.
+2650541 variants loaded from .bim file.
+256 people (71 males, 0 females, 185 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to All_samples_Exome_QC.nosex .
+137 phenotype values loaded from .fam.
+Warning: Ignoring phenotypes of missing-sex samples.  If you don't want those
+phenotypes to be ignored, use the --allow-no-sex flag.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 256 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 29050 het. haploid genotypes present (see All_samples_Exome_QC.hh );
+many commands treat these as missing.
+Warning: Nonmissing nonmale Y chromosome genotype(s) present; many commands
+treat these as missing.
+Total genotyping rate is 0.969768.
+2650541 variants and 256 people pass filters and QC.
+Among remaining phenotypes, 0 are cases and 137 are controls.  (119 phenotypes
+are missing.)
+--recode vcf to All_samples_Exome_QC.vcf ... done.
+Warning: At least one VCF allele code violates the official specification;
+other tools may not accept the file.  (Valid codes must either start with a
+'<', only contain characters in {A,C,G,T,N,a,c,g,t,n}, be an isolated '*', or
+represent a breakend.)
+
+End time: Wed Jun 19 02:43:11 2019

@@ -1,0 +1,30 @@
+PLINK v1.90p 64-bit (21 Feb 2018)
+Options in effect:
+  --allow-no-sex
+  --bfile All_samples_Exome_QC
+  --out kgp8490773
+  --recode
+  --snp kgp8490773
+  --tab
+
+Hostname: login
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/autism/data
+Start time: Fri May  4 03:33:15 2018
+
+Note: --tab flag deprecated.  Use '--recode tab ...'.
+Random number seed: 1525422795
+64510 MB RAM detected; reserving 32255 MB for main workspace.
+1 out of 2650541 variants loaded from .bim file.
+256 people (71 males, 0 females, 185 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to kgp8490773.nosex .
+137 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 256 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.5625.
+1 variant and 256 people pass filters and QC.
+Among remaining phenotypes, 0 are cases and 137 are controls.  (119 phenotypes
+are missing.)
+--recode ped to kgp8490773.ped + kgp8490773.map ... done.
+
+End time: Fri May  4 03:33:17 2018

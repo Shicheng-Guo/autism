@@ -1,0 +1,4 @@
+lRLIC.FA.Z.nonage.assoc.linear.mperm 2 kgp4738539 0.00366 0.02148
+rALIC.AD.Z.nonage.assoc.linear.mperm 6 kgp8664031 0.00422 0.02258
+rRLIC.FA.Z.nonage.assoc.linear.mperm 6 kgp8664031 0.00684 0.0441
+SCC.RD.Z.nonage.assoc.linear.mperm 6 kgp8664031 0.00554 0.03476

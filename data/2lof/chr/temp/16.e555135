@@ -1,0 +1,5 @@
+Java HotSpot(TM) 64-Bit Server VM warning: Insufficient space for shared memory file:
+   3532
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+/cm/local/apps/torque/var/spool/mom_priv/jobs/555135.bright.cm.cluster.SC: line 8:  3532 Killed                  java -Djava.io.tmpdir=./temp/ -Xmx32g -jar beagle.16May19.351.jar gt=All_samples_Exome_QC.temp.vcf.recode.clean.chr16.vcf.recode.vcf ref=/gpfs/home/guosa/hpc/db/hg19/beagle/EUR/chr16.1kg.phase3.v5a.EUR.vcf.gz map=/gpfs/home/guosa/hpc/db/hg19/beagle/plink.chr16.GRCh37.map out=All_samples_Exome_QC.chr16.vcf

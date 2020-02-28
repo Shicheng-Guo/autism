@@ -1,0 +1,43 @@
+PLINK v1.90p 64-bit (21 Feb 2018)
+Options in effect:
+  --allow-no-sex
+  --bfile All_samples_Exome_QC
+  --ci 0.95
+  --covar All_samples_Exome_QC.cov
+  --linear mperm=50000
+  --maf 0.01
+  --mpheno 27
+  --out lPLIC.RD.Z
+  --pheno All_samples_Exome_QC.phen
+  --remove excludeSample.txt
+  --seed 6377474
+
+Hostname: compute-011
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/autism/data
+Start time: Fri May  4 03:20:08 2018
+
+64510 MB RAM detected; reserving 32255 MB for main workspace.
+2650541 variants loaded from .bim file.
+256 people (71 males, 0 females, 185 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to lPLIC.RD.Z.nosex .
+242 phenotype values present after --pheno.
+--remove: 249 people remaining.
+Using up to 15 threads (change this with --threads).
+--covar: 1 covariate loaded.
+14 people had missing value(s).
+Before main variant filters, 249 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 28656 het. haploid genotypes present (see lPLIC.RD.Z.hh ); many
+commands treat these as missing.
+Warning: Nonmissing nonmale Y chromosome genotype(s) present; many commands
+treat these as missing.
+Total genotyping rate in remaining samples is 0.973651.
+1031667 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+1618874 variants and 249 people pass filters and QC.
+Phenotype data is quantitative.
+Writing linear model association results to lPLIC.RD.Z.assoc.linear ... done.
+50000 max(T) permutations complete.
+Permutation test report written to lPLIC.RD.Z.assoc.linear.mperm .
+
+End time: Mon May  7 04:04:19 2018

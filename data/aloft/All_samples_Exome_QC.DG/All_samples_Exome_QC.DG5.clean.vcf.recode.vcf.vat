@@ -1,0 +1,36 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##fileDate=20190619
+##source=PLINKv1.90
+##contig=<ID=0,length=2147483645>
+##contig=<ID=1,length=249218993>
+##contig=<ID=2,length=243068870>
+##contig=<ID=3,length=197891569>
+##contig=<ID=4,length=190986339>
+##contig=<ID=5,length=180700261>
+##contig=<ID=6,length=170980172>
+##contig=<ID=7,length=159126311>
+##contig=<ID=8,length=146301428>
+##contig=<ID=9,length=141101940>
+##contig=<ID=10,length=135508270>
+##contig=<ID=11,length=134944380>
+##contig=<ID=12,length=133810936>
+##contig=<ID=13,length=115103530>
+##contig=<ID=14,length=107287664>
+##contig=<ID=15,length=102520752>
+##contig=<ID=16,length=90274696>
+##contig=<ID=17,length=81060041>
+##contig=<ID=18,length=78015181>
+##contig=<ID=19,length=59097753>
+##contig=<ID=20,length=62947459>
+##contig=<ID=21,length=48100156>
+##contig=<ID=22,length=51224209>
+##contig=<ID=23,length=154921995>
+##contig=<ID=24,length=59019031>
+##contig=<ID=25,length=155234708>
+##contig=<ID=26,length=16483>
+##INFO=<ID=PR,Number=0,Type=Flag,Description="Provisional reference allele, may not be based on real reference genome">
+##bcftools_viewVersion=1.9+htslib-1.9
+##bcftools_viewCommand=view -G -Ov -o All_samples_Exome_QC.DG5.vcf All_samples_Exome_QC.vcf; Date=Wed Jun 19 02:48:39 2019
+##INFO=<ID=VA,Number=.,Type=String,Description="Variant Annotation, /gpfs/home/guosa/hpc/tools/aloft/aloft-annotate/data/data_aloft_annotate/gencode.v19.pc.noNMD.interval">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO

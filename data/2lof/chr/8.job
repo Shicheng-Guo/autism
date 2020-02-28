@@ -1,0 +1,4 @@
+#PBS -N chr8.Guo
+#PBS -l nodes=1:ppn=1
+cd /gpfs/home/guosa/hpc/autism/data/2lof/chr
+Rscript --vanilla 2LOF.R All_samples_Exome_QC.chr8.vcf.DR2L0.8.lof.anno.vcf All_samples_Exome_QC.phen

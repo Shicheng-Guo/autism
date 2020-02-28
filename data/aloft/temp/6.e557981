@@ -1,0 +1,9 @@
+mkdir: cannot create directory `./temp/chr6': File exists
+[E::bgzf_uncompress] Inflate operation failed: progress temporarily not possible, or in() / out() returned an error
+[E::bgzf_read] Read block operation failed with error 1 after 12 of 16 bytes
+Failed to open All_samples_Exome_QC.clean.vcf.gz: could not load index
+Exception in thread "main" java.lang.IllegalArgumentException: File does not exist: ./chr/All_samples_Exome_QC.temp.vcf.recode.clean.chr6.vcf.recode.vcf
+	at blbutil.Validate.getFile(Validate.java:141)
+	at main.Par.<init>(Par.java:122)
+	at main.Main.parameters(Main.java:307)
+	at main.Main.main(Main.java:107)

@@ -1,0 +1,19 @@
+PLINK v1.90a 64-bit (9 Jan 2014) 
+6 arguments: --bfile All_samples_Exome_QC --out All_samples_Exome_QC --recode --tab
+Hostname: login
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/autism/data
+Start time: Fri Mar 30 22:03:11 2018
+
+Note: --tab flag deprecated.  Use '--recode tab ...'.
+64510 MB RAM detected; reserving 32255 MB for main workspace.
+2650541 variants and 256 people (71 males, 0 females, 185 ambiguous) loaded.
+Note: No phenotypes present.
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... done.
+Warning: 29136 het. haploid genotypes present (see All_samples_Exome_QC.hh).
+Warning: Nonmissing nonmale Y chromosome genotype(s) present.
+Total genotyping rate is 0.969676.
+2650541 variants and 256 people pass filters and QC.
+--recode to All_samples_Exome_QC.ped + .map... done.
+
+End time: Fri Mar 30 22:03:58 2018

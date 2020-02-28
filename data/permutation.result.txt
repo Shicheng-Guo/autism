@@ -1,0 +1,6 @@
+BCC.MD.Z.assoc.linear.mperm chr5 kgp334896 0.00175 0.02686
+lALIC.AD.Z.assoc.linear.mperm chr19 kgp12379442 0.00293 0.01876
+lRLIC.AD.Z.assoc.linear.mperm chr1 rs11161438 0.00196 0.0033
+lSLF.AD.Z.assoc.linear.mperm chr14 kgp8810402 0.00268 0.01324
+lSLF.MD.Z.assoc.linear.mperm chr2 kgp5133951 0.00327 0.04488
+rALIC.FA.Z.assoc.linear.mperm chr18 rs3018274 0.00311 0.02312

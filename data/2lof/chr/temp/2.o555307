@@ -1,0 +1,28 @@
+usage: /gpfs/home/guosa/hpc/tools/aloft/aloft-annotate/aloft
+       [-h] [--version] [--vcf VCF] [--vat VAT] [--output OUTPUT]
+       [--cache CACHE] [--nmd_threshold NMD_THRESHOLD] [--verbose]
+       [--data DATA]
+
+Run ALoFT predictions. You must provide a VCF or VAT file as input. See
+options below.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --version             show program's version number and exit
+  --vcf VCF             Path to VCF input file. This can be a compressed .gz
+                        file. If not specified, then --vat must be specified.
+                        (default: None)
+  --vat VAT             Path to VAT input file. If not specified, then --vcf
+                        must be specified. This file must be sorted
+                        numerically. (default: None)
+  --output OUTPUT       Path to output directory; directory is created if it
+                        does not exist (default: aloft_output/)
+  --cache CACHE         Output to directory for cached files; directory is
+                        created if it does not exist. Only needed for networkx
+                        module. (default: cache/)
+  --nmd_threshold NMD_THRESHOLD
+                        Distance from premature stop to last exon-exon
+                        junction; used to find NMD cause (default: 50)
+  --verbose, -v         Verbose mode (default: False)
+  --data DATA           Path to data directory containing data.txt which
+                        contains paths to all aloft data files (default: data)

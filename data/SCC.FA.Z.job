@@ -1,0 +1,8 @@
+#!/bin/csh
+#PBS -N SCC.FA.Z
+#PBS -q shortq
+#PBS -l nodes=1:ppn=1
+#PBS -V
+#PBS -m abe
+cd /mnt/bigdata/Genetic/Projects/shg047/autism/data
+plink --bfile All_samples_Exome_QC --linear mperm=50000  --covar All_samples_Exome_QC.cov --allow-no-sex --ci 0.95 --seed 6377474 --remove excludeSample.txt --maf 0.01 --pheno All_samples_Exome_QC.phen --mpheno 10 --out SCC.FA.Z

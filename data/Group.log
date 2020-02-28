@@ -1,0 +1,26 @@
+PLINK v1.90p 64-bit (21 Feb 2018)
+Options in effect:
+  --allow-no-sex
+  --bfile All_samples_Exome_QC
+  --ci 0.95
+  --covar All_samples_Exome_QC.cov
+  --linear mperm=50000
+  --maf 0.01
+  --mpheno 1
+  --out Group
+  --pheno All_samples_Exome_QC.phen
+  --remove excludeSample.txt
+  --seed 6377474
+
+Hostname: compute-016
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/autism/data
+Start time: Fri May  4 03:19:35 2018
+
+64508 MB RAM detected; reserving 32254 MB for main workspace.
+2650541 variants loaded from .bim file.
+256 people (71 males, 0 females, 185 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to Group.nosex .
+137 phenotype values present after --pheno.
+Error: --linear without --all-pheno requires a scalar phenotype.
+
+End time: Fri May  4 03:19:37 2018

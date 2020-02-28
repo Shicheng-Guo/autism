@@ -1,0 +1,5 @@
+Java HotSpot(TM) 64-Bit Server VM warning: Insufficient space for shared memory file:
+   22867
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+Error: unrecognized parameters: -ref=~/hpc/db/hg19/beagle/EUR/chr9.1kg.phase3.v5a.EUR.vcf.gz -map=~/hpc/db/hg19/beagle/plink.GRCh37.map.zip

@@ -1,0 +1,20 @@
+PLINK v1.90p 64-bit (21 Feb 2018)              www.cog-genomics.org/plink/1.9/
+(C) 2005-2018 Shaun Purcell, Christopher Chang   GNU General Public License v3
+Logging to Group.nonage.log.
+Options in effect:
+  --allow-no-sex
+  --bfile All_samples_Exome_QC
+  --ci 0.95
+  --keep case.ind
+  --linear mperm=50000
+  --maf 0.01
+  --mpheno 1
+  --out Group.nonage
+  --pheno All_samples_Exome_QC.phen
+  --seed 6377474
+
+64510 MB RAM detected; reserving 32255 MB for main workspace.
+2650541 variants loaded from .bim file.
+256 people (71 males, 0 females, 185 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to Group.nonage.nosex .
+137 phenotype values present after --pheno.

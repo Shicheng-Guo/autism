@@ -1,0 +1,10 @@
+#PBS -N 17
+#PBS -l nodes=1:ppn=24
+#PBS -M Guo.shicheng@marshfieldresearch.org
+#PBS -m abe
+#PBS -o /gpfs/home/guosa/hpc/autism/data/aloft/temp/
+#PBS -e /gpfs/home/guosa/hpc/autism/data/aloft/temp/
+cd /gpfs/home/guosa/hpc/autism/data/aloft
+mkdir ./temp/chr17
+bcftools view -e 'ALT ="-" | REF ="-"' -t 17 All_samples_Exome_QC.clean.vcf.gz -Oz -o ./chr/All_samples_Exome_QC.clean.chr17.vcf.gz
+java -Djava.io.tmpdir=./temp/chr17 -Xmx64g -jar beagle.16May19.351.jar gt=./chr/All_samples_Exome_QC.clean.chr17.vcf.gz ref=/gpfs/home/guosa/hpc/db/hg19/beagle/EUR/chr17.1kg.phase3.v5a.EUR.vcf.gz map=/gpfs/home/guosa/hpc/db/hg19/beagle/plink.chr17.GRCh37.map out=./chr/All_samples_Exome_QC.chr17.vcf

@@ -1,0 +1,8 @@
+#PBS -N 42
+#PBS -l nodes=1:ppn=1
+#PBS -M Guo.shicheng@marshfieldresearch.org
+#PBS -m abe
+#PBS -o /gpfs/home/guosa/hpc/autism/data/2lof/beagle/temp/
+#PBS -e /gpfs/home/guosa/hpc/autism/data/2lof/beagle/temp/
+cd /gpfs/home/guosa/hpc/autism/data/2lof/beagle
+rvtest --inVcf All_samples_Exome_QC.gz --pheno All_samples_Exome_QC.phen --mpheno 42 --single wald,score --out All_samples_Exome_QC.mphen42.rvtest

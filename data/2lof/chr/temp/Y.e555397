@@ -1,0 +1,6 @@
+[E::hts_open_format] Failed to open file All_samples_Exome_QC.chrY.vcf.DR2L0.8.vcf
+Failed to open All_samples_Exome_QC.chrY.vcf.DR2L0.8.vcf: No such file or directory
+open: No such file or directory
+[tabix] was bgzip used to compress this file? All_samples_Exome_QC.chrY.vcf.DR2L0.8.vcf.gz
+[E::hts_open_format] Failed to open file All_samples_Exome_QC.chrY.vcf.DR2L0.8.vcf.gz
+Failed to open All_samples_Exome_QC.chrY.vcf.DR2L0.8.vcf.gz: No such file or directory

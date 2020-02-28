@@ -1,0 +1,4 @@
+mkdir: cannot create directory `./temp/chr21': File exists
+[E::hts_open_format] Failed to open file ALT
+Failed to open ALT: No such file or directory
+/cm/local/apps/torque/var/spool/mom_priv/jobs/558078.bright.cm.cluster.SC: line 9: REF!=-: command not found

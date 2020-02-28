@@ -1,0 +1,4 @@
+NOTICE: Finished reading 77214 lines from VCF file
+NOTICE: A total of 77204 locus in VCF file passed QC threshold, representing 77204 SNPs (61314 transitions and 15890 transversions) and 0 indels/substitutions
+NOTICE: Finished writing allele frequencies based on 19764224 SNP genotypes (15696384 transitions and 4067840 transversions) and 0 indels/substitutions for 256 samples
+Error: the required database file /gpfs/home/guosa/hpc/tools/annovar/humandb/hg19_dbnsfp35a.txt does not exist.

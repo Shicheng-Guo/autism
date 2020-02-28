@@ -1,0 +1,2 @@
+mkdir: cannot create directory `./temp/chr7': File exists
+ERROR: invalid ALT allele at 7:12381722 [-]

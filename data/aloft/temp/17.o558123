@@ -1,0 +1,27 @@
+beagle.16May19.351.jar (version 5.0)
+Copyright (C) 2014-2018 Brian L. Browning
+Enter "java -jar beagle.16May19.351.jar" to list command line argument
+Start time: 05:05 PM CDT on 25 Jun 2019
+
+Command line: java -Xmx29127m -jar beagle.16May19.351.jar
+  gt=./chr/All_samples_Exome_QC.clean.chr17.vcf.gz
+  ref=/gpfs/home/guosa/hpc/db/hg19/beagle/EUR/chr17.1kg.phase3.v5a.EUR.vcf.gz
+  map=/gpfs/home/guosa/hpc/db/hg19/beagle/plink.chr17.GRCh37.map
+  out=./chr/All_samples_Exome_QC.chr17.vcf
+
+Reference samples:         503
+Study samples:             256
+
+Window 1 (17:78-14996214)
+Reference markers:     192,666
+Study markers:          14,740
+
+Burnin  iteration 1:           58 seconds
+Burnin  iteration 2:           42 seconds
+Burnin  iteration 3:           41 seconds
+Burnin  iteration 4:           54 seconds
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 1815085056 bytes for committing reserved memory.
+# An error report file with more information is saved as:
+# /mnt/bigdata/Genetic/Projects/shg047/autism/data/aloft/hs_err_pid41999.log

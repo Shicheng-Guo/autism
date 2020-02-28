@@ -1,0 +1,2 @@
+ CHR                 SNP         BP   A1       TEST    NMISS       BETA       SE      L95      U95         STAT            P 
+  14          kgp2398909   90066634    T        ADD       37      0.783   0.1066  -0.1023   0.3155        7.345    1.641e-08

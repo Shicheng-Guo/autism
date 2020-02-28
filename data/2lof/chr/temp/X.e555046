@@ -1,0 +1,14 @@
+Java HotSpot(TM) 64-Bit Server VM warning: Insufficient space for shared memory file:
+   26146
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+Exception in thread "main" java.lang.IllegalArgumentException: No VCF records found (data source: All_samples_Exome_QC.temp.vcf.recode.clean.chrX.vcf.recode.vcf)
+Check that the chromosome identifiers are the same in each input VCF
+file and in the 'chrom=' command line argument (if 'chrom=' is used).
+	at vcf.VcfIt.noRecordFoundError(VcfIt.java:225)
+	at vcf.VcfIt.start(VcfIt.java:211)
+	at vcf.VcfIt.create(VcfIt.java:184)
+	at vcf.VcfIt.create(VcfIt.java:157)
+	at main.Main.targIt(Main.java:240)
+	at main.Main.data(Main.java:144)
+	at main.Main.main(Main.java:113)

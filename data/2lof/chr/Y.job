@@ -1,0 +1,10 @@
+#PBS -N Y
+#PBS -l nodes=1:ppn=1
+#PBS -M Guo.shicheng@marshfieldresearch.org
+#PBS -m abe
+#PBS -o /gpfs/home/guosa/hpc/autism/data/2lof/chr/temp/
+#PBS -e /gpfs/home/guosa/hpc/autism/data/2lof/chr/temp/
+cd /gpfs/home/guosa/hpc/autism/data/2lof/chr
+bcftools view All_samples_Exome_QC.chrY.vcf.DR2L0.8.vcf -Oz -o All_samples_Exome_QC.chrY.vcf.DR2L0.8.vcf.gz
+tabix -p vcf All_samples_Exome_QC.chrY.vcf.DR2L0.8.vcf.gz
+bcftools view -G All_samples_Exome_QC.chrY.vcf.DR2L0.8.vcf.gz -Ov -o All_samples_Exome_QC.chrY.vcf.DR2L0.8.DG.vcf

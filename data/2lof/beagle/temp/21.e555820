@@ -1,0 +1,146 @@
+[tabix] the index file exists. Please use '-f' to overwrite.
+The following parameters are available.  Ones with "[]" are in effect:
+
+Available Options
+      Basic Input/Output: --inVcf [All_samples_Exome_QC.gz], --inBgen []
+                          --inBgenSample [], --inKgg []
+                          --out [All_samples_Exome_QC.rvtest.burden]
+                          --outputRaw
+       Specify Covariate: --covar [], --covar-name [], --sex
+       Specify Phenotype: --pheno [All_samples_Exome_QC.phen], --inverseNormal
+                          --useResidualAsPhenotype, --mpheno [21]
+                          --pheno-name [], --qtl, --multiplePheno []
+        Specify Genotype: --dosage [], --multipleAllele
+    Chromosome X Options: --xLabel [], --xParRegion []
+           People Filter: --peopleIncludeID [], --peopleIncludeFile []
+                          --peopleExcludeID [], --peopleExcludeFile []
+             Site Filter: --rangeList [], --rangeFile [], --siteFile []
+                          --siteDepthMin [], --siteDepthMax [], --siteMACMin []
+                          --annoType []
+         Genotype Filter: --indvDepthMin [], --indvDepthMax [], --indvQualMin []
+       Association Model: --single [], --burden [cmc], --vt [price]
+                          --kernel [skat,kbac], --meta []
+     Family-based Models: --kinship [], --xHemiKinship [], --kinshipEigen []
+                          --xHemiKinshipEigen [], --boltPlink []
+                          --boltPlinkNoCheck
+          Grouping Unit : --geneFile [refFlat_hg19.txt.gz], --gene []
+                          --setList [], --setFile [], --set []
+        Frequency Cutoff: --freqUpper [], --freqLower []
+            Missing Data: --impute [], --imputePheno, --imputeCov
+    Conditional Analysis: --condition []
+     Auxiliary Functions: --noweb, --hide-covar, --numThread [], --outputID
+                          --help
+
+Effective Options
+    --inVcf All_samples_Exome_QC.gz
+    --out All_samples_Exome_QC.rvtest.burden
+    --pheno All_samples_Exome_QC.phen
+    --mpheno 21
+    --burden cmc
+    --vt price
+    --kernel skat,kbac
+    --geneFile refFlat_hg19.txt.gz
+
+connect() timeout zhanxw.com:80
+Retrieve remote version failed, use '--noweb' to skip.
+[INFO]	Program version: 20171009
+[INFO]	Analysis started at: Fri Jun 14 18:01:53 2019
+[WARN] File name does not look like a VCF/BCF file.
+[INFO]	Loaded [ 256 ] samples from genotype files
+[INFO]	Loaded [ 256 ] sample phenotypes
+[INFO]	Loaded 0 male, 0 female and 256 sex-unknown samples from All_samples_Exome_QC.phen
+[INFO]	Analysis begins with [ 256 ] samples...
+[INFO]	Price's VT test significance will be evaluated using 10000 permutations at alpha = 0.05
+[INFO]	SKAT test significance will be evaluated using 10000 permutations at alpha = 0.05 weight = Beta[beta1 = 1.00, beta2 = 25.00]
+[INFO]	KBAC test significance will be evaluated using 10000 permutations at alpha = 0.05
+[INFO]	Loaded [ 22480 ] genes.
+[INFO]	Impute missing genotype to mean (by default)
+[INFO]	Analysis started
+[INFO]	Gene WASH7P has 0 variants, skipping
+[INFO]	Gene FAM138A has 0 variants, skipping
+[INFO]	Gene FAM138F has 0 variants, skipping
+[INFO]	Gene OR4F5 has 0 variants, skipping
+[INFO]	Gene LOC100132287 has 0 variants, skipping
+[INFO]	Gene LOC100132062 has 0 variants, skipping
+[INFO]	Gene OR4F29 has 0 variants, skipping
+[INFO]	Gene OR4F3 has 0 variants, skipping
+[INFO]	Gene OR4F16 has 0 variants, skipping
+[INFO]	Gene LOC100288069 has 0 variants, skipping
+[WARN]	KBAC test does not support continuous outcomes. Results will be all NAs.
+[INFO]	Gene DDX53 has 0 variants, skipping
+[INFO]	Gene MIR429 has 0 variants, skipping
+[INFO]	Gene DMD has 0 variants, skipping
+[INFO]	Gene MBNL3 has 0 variants, skipping
+[INFO]	Gene SRPK3 has 0 variants, skipping
+[INFO]	Gene FAM122C has 0 variants, skipping
+[INFO]	Gene MMP23B has 0 variants, skipping
+[INFO]	Gene MMP23A has 0 variants, skipping
+[INFO]	Gene LOC100128003 has 0 variants, skipping
+[INFO]	Gene MIR503 has 0 variants, skipping
+[INFO]	Gene PAN3-AS1 has 0 variants, skipping
+[INFO]	Gene HEPH has 0 variants, skipping
+[INFO]	Gene PIGA has 0 variants, skipping
+[INFO]	Gene MIR4251 has 0 variants, skipping
+[INFO]	Gene MIR551A has 0 variants, skipping
+[INFO]	Gene ST7-AS1 has 0 variants, skipping
+[INFO]	Gene TERC has 0 variants, skipping
+[INFO]	Gene MAGED4B has 0 variants, skipping
+[INFO]	Gene MIR4252 has 0 variants, skipping
+[INFO]	Gene CFHR3 has 0 variants, skipping
+[INFO]	Gene WNK3 has 0 variants, skipping
+[INFO]	Gene PORCN has 0 variants, skipping
+[INFO]	Gene IDH3G has 0 variants, skipping
+[INFO]	Gene BAGE has 0 variants, skipping
+[INFO]	Gene SH2D1A has 0 variants, skipping
+[INFO]	Gene POTEB has 0 variants, skipping
+[INFO]	Gene IGSF1 has 0 variants, skipping
+[INFO]	Gene NUP62CL has 0 variants, skipping
+[INFO]	Gene L1CAM has 0 variants, skipping
+[INFO]	Gene SNORA59B has 0 variants, skipping
+[INFO]	Gene SNORA59A has 0 variants, skipping
+[INFO]	Gene TSPY1 has 0 variants, skipping
+[INFO]	Gene PRAMEF3 has 0 variants, skipping
+[INFO]	Gene PRAMEF19 has 0 variants, skipping
+[INFO]	Gene CLEC18C has 0 variants, skipping
+[INFO]	Gene COX7B has 0 variants, skipping
+[INFO]	Gene TGIF2LX has 0 variants, skipping
+[INFO]	Gene MIR3675 has 0 variants, skipping
+[INFO]	Gene MST1P2 has 0 variants, skipping
+[INFO]	Gene MST1P9 has 0 variants, skipping
+[INFO]	Gene SUV39H1 has 0 variants, skipping
+[INFO]	Gene LOC100506730 has 0 variants, skipping
+[INFO]	Gene PCBP1 has 0 variants, skipping
+[INFO]	Gene HDX has 0 variants, skipping
+[INFO]	Gene MAMLD1 has 0 variants, skipping
+[INFO]	Gene VSIG4 has 0 variants, skipping
+[INFO]	Gene TMEM47 has 0 variants, skipping
+[INFO]	Gene TMUB1 has 0 variants, skipping
+[INFO]	Gene MIR4253 has 0 variants, skipping
+[INFO]	Gene MIR3115 has 0 variants, skipping
+[INFO]	Gene MAGEC1 has 0 variants, skipping
+[INFO]	Gene TAZ has 0 variants, skipping
+[INFO]	Gene OCRL has 0 variants, skipping
+[INFO]	Gene MIR3917 has 0 variants, skipping
+[INFO]	Gene BCAP31 has 0 variants, skipping
+[INFO]	Gene MIR1976 has 0 variants, skipping
+[INFO]	Gene GK has 0 variants, skipping
+[INFO]	Gene RAP2C has 0 variants, skipping
+[INFO]	Gene OXT has 0 variants, skipping
+[INFO]	Gene PIN4 has 0 variants, skipping
+[INFO]	Gene SCARNA1 has 0 variants, skipping
+[INFO]	Gene LOC653566 has 0 variants, skipping
+[INFO]	Gene SNORD99 has 0 variants, skipping
+[INFO]	Gene SNORA61 has 0 variants, skipping
+[INFO]	Gene SNORA44 has 0 variants, skipping
+[INFO]	Gene SNORA16A has 0 variants, skipping
+[INFO]	Gene RNU11 has 0 variants, skipping
+[INFO]	Gene SNORD103A has 0 variants, skipping
+[INFO]	Gene SNORD103B has 0 variants, skipping
+[INFO]	Gene SNORD85 has 0 variants, skipping
+[INFO]	Gene MIR4254 has 0 variants, skipping
+[INFO]	Gene RIMBP3 has 0 variants, skipping
+[INFO]	Gene CSF2RA has 0 variants, skipping
+[INFO]	Gene MAFIP has 0 variants, skipping
+[INFO]	Gene CTAG1B has 0 variants, skipping
+[INFO]	Gene MIR3605 has 0 variants, skipping
+[INFO]	Gene MIR4255 has 0 variants, skipping

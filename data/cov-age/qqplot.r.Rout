@@ -1,0 +1,101 @@
+
+R version 3.4.3 (2017-11-30) -- "Kite-Eating Tree"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-redhat-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> library("Haplin")
+Loading required package: GenABEL
+Loading required package: MASS
+Loading required package: GenABEL.data
+Loading required package: DatABEL
+DatABEL v.0.9-6 loaded
+
+> ggd.qqplot = function(pvector, main=NULL, ...) {
++   o = -log10(sort(pvector,decreasing=F))
++   e = -log10( 1:length(o)/length(o) )
++   plot(e,o,pch=19,cex=1, main=main, ...,
++        xlab=expression(Expected~~-log[10](italic(p))),
++        ylab=expression(Observed~~-log[10](italic(p))),
++        xlim=c(0,max(e)), ylim=c(0,max(o)))
++   lines(e,e,col="red")
++ }
+> 
+> set.seed(42)
+> set.seed(42)
+> 
+> setwd("/home/local/MFLDCLIN/guosa/hpc/autism/data/cov-age")
+> file=list.files(pattern="*.mperm")
+> for(i in 1:length(file)){
++ print(c(i,file[i]))
++ data<-read.table(file[i],head=T)
++ png(paste(i,"png",sep="."))
++ par(mfrow=c(2,2))
++ pQQ(na.omit(data$EMP1), conf = 0.95, mark = F,main="EMP1") 
++ pQQ(na.omit(data$EMP2), conf = 0.95, mark = F,main="EMP2") 
++ dev.off()
++ }
+[1] "1"                           "BCC.AD.Z.assoc.linear.mperm"
+[1] "2"                           "BCC.FA.Z.assoc.linear.mperm"
+[1] "3"                           "BCC.MD.Z.assoc.linear.mperm"
+[1] "4"                           "BCC.RD.Z.assoc.linear.mperm"
+[1] "5"                           "GCC.AD.Z.assoc.linear.mperm"
+[1] "6"                           "GCC.FA.Z.assoc.linear.mperm"
+[1] "7"                           "GCC.MD.Z.assoc.linear.mperm"
+[1] "8"                           "GCC.RD.Z.assoc.linear.mperm"
+[1] "9"                             "lALIC.AD.Z.assoc.linear.mperm"
+[1] "10"                            "lALIC.FA.Z.assoc.linear.mperm"
+[1] "11"                            "lALIC.MD.Z.assoc.linear.mperm"
+[1] "12"                            "lALIC.RD.Z.assoc.linear.mperm"
+[1] "13"                            "lPLIC.AD.Z.assoc.linear.mperm"
+[1] "14"                            "lPLIC.FA.Z.assoc.linear.mperm"
+[1] "15"                            "lPLIC.MD.Z.assoc.linear.mperm"
+[1] "16"                            "lPLIC.RD.Z.assoc.linear.mperm"
+[1] "17"                            "lRLIC.AD.Z.assoc.linear.mperm"
+[1] "18"                            "lRLIC.FA.Z.assoc.linear.mperm"
+[1] "19"                            "lRLIC.MD.Z.assoc.linear.mperm"
+[1] "20"                            "lRLIC.RD.Z.assoc.linear.mperm"
+[1] "21"                           "lSLF.AD.Z.assoc.linear.mperm"
+[1] "22"                           "lSLF.FA.Z.assoc.linear.mperm"
+[1] "23"                           "lSLF.MD.Z.assoc.linear.mperm"
+[1] "24"                           "lSLF.RD.Z.assoc.linear.mperm"
+[1] "25"                            "rALIC.AD.Z.assoc.linear.mperm"
+[1] "26"                            "rALIC.FA.Z.assoc.linear.mperm"
+[1] "27"                            "rALIC.MD.Z.assoc.linear.mperm"
+[1] "28"                            "rALIC.RD.Z.assoc.linear.mperm"
+[1] "29"                            "rPLIC.AD.Z.assoc.linear.mperm"
+[1] "30"                            "rPLIC.FA.Z.assoc.linear.mperm"
+[1] "31"                            "rPLIC.MD.Z.assoc.linear.mperm"
+[1] "32"                            "rPLIC.RD.Z.assoc.linear.mperm"
+[1] "33"                            "rRLIC.AD.Z.assoc.linear.mperm"
+[1] "34"                            "rRLIC.FA.Z.assoc.linear.mperm"
+[1] "35"                            "rRLIC.MD.Z.assoc.linear.mperm"
+[1] "36"                            "rRLIC.RD.Z.assoc.linear.mperm"
+[1] "37"                           "rSLF.AD.Z.assoc.linear.mperm"
+[1] "38"                           "rSLF.FA.Z.assoc.linear.mperm"
+[1] "39"                           "rSLF.MD.Z.assoc.linear.mperm"
+[1] "40"                           "rSLF.RD.Z.assoc.linear.mperm"
+[1] "41"                          "SCC.AD.Z.assoc.linear.mperm"
+[1] "42"                          "SCC.FA.Z.assoc.linear.mperm"
+[1] "43"                          "SCC.MD.Z.assoc.linear.mperm"
+[1] "44"                          "SCC.RD.Z.assoc.linear.mperm"
+> 
+> 
+> proc.time()
+    user   system  elapsed 
+3448.541    2.546 3450.757 

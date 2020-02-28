@@ -1,0 +1,43 @@
+PLINK v1.90p 64-bit (21 Feb 2018)
+Options in effect:
+  --allow-no-sex
+  --bfile All_samples_Exome_QC
+  --ci 0.95
+  --covar All_samples_Exome_QC.cov
+  --keep case.ind
+  --linear mperm=50000
+  --maf 0.01
+  --mpheno 7
+  --out BCC.MD.Z.nonage
+  --pheno All_samples_Exome_QC.phen
+  --seed 6377474
+
+Hostname: compute-014
+Working directory: /mnt/bigdata/Genetic/Projects/shg047/autism/data/caseonly
+Start time: Tue May  1 01:15:43 2018
+
+64508 MB RAM detected; reserving 32254 MB for main workspace.
+2650541 variants loaded from .bim file.
+256 people (71 males, 0 females, 185 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to BCC.MD.Z.nonage.nosex .
+242 phenotype values present after --pheno.
+--keep: 137 people remaining.
+Using up to 15 threads (change this with --threads).
+--covar: 1 covariate loaded.
+Before main variant filters, 137 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 20288 het. haploid genotypes present (see BCC.MD.Z.nonage.hh ); many
+commands treat these as missing.
+Warning: Nonmissing nonmale Y chromosome genotype(s) present; many commands
+treat these as missing.
+Total genotyping rate in remaining samples is 0.969337.
+1024972 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+1625569 variants and 137 people pass filters and QC.
+Phenotype data is quantitative.
+Writing linear model association results to BCC.MD.Z.nonage.assoc.linear ...
+done.
+50000 max(T) permutations complete.
+Permutation test report written to BCC.MD.Z.nonage.assoc.linear.mperm .
+
+End time: Tue May  1 11:31:00 2018

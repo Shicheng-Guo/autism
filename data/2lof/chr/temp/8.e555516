@@ -1,0 +1,4 @@
+Java HotSpot(TM) 64-Bit Server VM warning: Insufficient space for shared memory file:
+   23145
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+

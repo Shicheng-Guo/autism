@@ -1,0 +1,461 @@
+rs10510837	Asperger disorder
+rs1550976	Asperger disorder
+rs4703129	Asperger disorder
+rs7179456	Asperger disorder
+rs892055	Asperger disorder
+rs10038113	Autism
+rs10489525	Autism
+rs10513025	Autism
+rs10858047	Autism
+rs11102800	Autism
+rs11102807	Autism
+rs11582563	Autism
+rs11585926	Autism
+rs11587400	Autism
+rs11589568	Autism
+rs1877455	Autism
+rs3827735	Autism
+rs4141463	Autism
+rs4150167	Autism
+rs4307059	Autism
+rs4675502	Autism
+rs6453278	Autism
+rs6537825	Autism
+rs6538761	Autism
+rs6661053	Autism
+rs7142002	Autism
+rs7511633	Autism
+rs7711337	Autism
+rs7834018	Autism
+rs8453	Autism
+rs8453 	Autism
+rs926938	Autism
+rs10888329	Autism spectrum disorder
+rs115254791	Autism spectrum disorder
+rs12543592	Autism spectrum disorder
+rs142968358	Autism spectrum disorder
+rs16976358	Autism spectrum disorder
+rs2447097	Autism spectrum disorder
+rs3914502	Autism spectrum disorder
+rs7835763	Autism spectrum disorder
+rs10211550	Autism spectrum disorder or schizophrenia
+rs1024582	Autism spectrum disorder or schizophrenia
+rs10520163	Autism spectrum disorder or schizophrenia
+rs10791097	Autism spectrum disorder or schizophrenia
+rs10791111	Autism spectrum disorder or schizophrenia
+rs1080500	Autism spectrum disorder or schizophrenia
+rs111312615	Autism spectrum disorder or schizophrenia
+rs111639056	Autism spectrum disorder or schizophrenia
+rs11191419	Autism spectrum disorder or schizophrenia
+rs11191582	Autism spectrum disorder or schizophrenia
+rs111977918	Autism spectrum disorder or schizophrenia
+rs11210195	Autism spectrum disorder or schizophrenia
+rs11210892	Autism spectrum disorder or schizophrenia
+rs112209031	Autism spectrum disorder or schizophrenia
+rs11223651	Autism spectrum disorder or schizophrenia
+rs1131275	Autism spectrum disorder or schizophrenia
+rs113205291	Autism spectrum disorder or schizophrenia
+rs113397282	Autism spectrum disorder or schizophrenia
+rs114041423	Autism spectrum disorder or schizophrenia
+rs114086406	Autism spectrum disorder or schizophrenia
+rs114115252	Autism spectrum disorder or schizophrenia
+rs114142645	Autism spectrum disorder or schizophrenia
+rs114204022	Autism spectrum disorder or schizophrenia
+rs114274203	Autism spectrum disorder or schizophrenia
+rs114276265	Autism spectrum disorder or schizophrenia
+rs114277634	Autism spectrum disorder or schizophrenia
+rs114291394	Autism spectrum disorder or schizophrenia
+rs114441450	Autism spectrum disorder or schizophrenia
+rs114455101	Autism spectrum disorder or schizophrenia
+rs114508985	Autism spectrum disorder or schizophrenia
+rs114771361	Autism spectrum disorder or schizophrenia
+rs114810457	Autism spectrum disorder or schizophrenia
+rs114812317	Autism spectrum disorder or schizophrenia
+rs114830752	Autism spectrum disorder or schizophrenia
+rs114838832	Autism spectrum disorder or schizophrenia
+rs114867672	Autism spectrum disorder or schizophrenia
+rs114875775	Autism spectrum disorder or schizophrenia
+rs114882497	Autism spectrum disorder or schizophrenia
+rs114904464	Autism spectrum disorder or schizophrenia
+rs114950038	Autism spectrum disorder or schizophrenia
+rs114963521	Autism spectrum disorder or schizophrenia
+rs114964506	Autism spectrum disorder or schizophrenia
+rs115035678	Autism spectrum disorder or schizophrenia
+rs115052633	Autism spectrum disorder or schizophrenia
+rs1150688	Autism spectrum disorder or schizophrenia
+rs115123779	Autism spectrum disorder or schizophrenia
+rs115136442	Autism spectrum disorder or schizophrenia
+rs115165987	Autism spectrum disorder or schizophrenia
+rs115242751	Autism spectrum disorder or schizophrenia
+rs115283957	Autism spectrum disorder or schizophrenia
+rs115325719	Autism spectrum disorder or schizophrenia
+rs115329265	Autism spectrum disorder or schizophrenia
+rs115344853	Autism spectrum disorder or schizophrenia
+rs115437294	Autism spectrum disorder or schizophrenia
+rs115443066	Autism spectrum disorder or schizophrenia
+rs115487448	Autism spectrum disorder or schizophrenia
+rs115497191	Autism spectrum disorder or schizophrenia
+rs115558405	Autism spectrum disorder or schizophrenia
+rs115569272	Autism spectrum disorder or schizophrenia
+rs115625073	Autism spectrum disorder or schizophrenia
+rs115641444	Autism spectrum disorder or schizophrenia
+rs115661163	Autism spectrum disorder or schizophrenia
+rs115682897	Autism spectrum disorder or schizophrenia
+rs115687605	Autism spectrum disorder or schizophrenia
+rs115707823	Autism spectrum disorder or schizophrenia
+rs115915654	Autism spectrum disorder or schizophrenia
+rs115937317	Autism spectrum disorder or schizophrenia
+rs115960997	Autism spectrum disorder or schizophrenia
+rs115963308	Autism spectrum disorder or schizophrenia
+rs116047537	Autism spectrum disorder or schizophrenia
+rs116067082	Autism spectrum disorder or schizophrenia
+rs116137698	Autism spectrum disorder or schizophrenia
+rs116139966	Autism spectrum disorder or schizophrenia
+rs116182620	Autism spectrum disorder or schizophrenia
+rs116254153	Autism spectrum disorder or schizophrenia
+rs116326873	Autism spectrum disorder or schizophrenia
+rs116385615	Autism spectrum disorder or schizophrenia
+rs116408368	Autism spectrum disorder or schizophrenia
+rs11641947	Autism spectrum disorder or schizophrenia
+rs116427960	Autism spectrum disorder or schizophrenia
+rs116460775	Autism spectrum disorder or schizophrenia
+rs116502302	Autism spectrum disorder or schizophrenia
+rs116552815	Autism spectrum disorder or schizophrenia
+rs116593970	Autism spectrum disorder or schizophrenia
+rs116633139	Autism spectrum disorder or schizophrenia
+rs116663187	Autism spectrum disorder or schizophrenia
+rs116676919	Autism spectrum disorder or schizophrenia
+rs11682175	Autism spectrum disorder or schizophrenia
+rs11740474	Autism spectrum disorder or schizophrenia
+rs11753207	Autism spectrum disorder or schizophrenia
+rs117616320	Autism spectrum disorder or schizophrenia
+rs11874716	Autism spectrum disorder or schizophrenia
+rs12443170	Autism spectrum disorder or schizophrenia
+rs12522290	Autism spectrum disorder or schizophrenia
+rs12592967	Autism spectrum disorder or schizophrenia
+rs12704290	Autism spectrum disorder or schizophrenia
+rs12826178	Autism spectrum disorder or schizophrenia
+rs12887734	Autism spectrum disorder or schizophrenia
+rs12925872	Autism spectrum disorder or schizophrenia
+rs12954356	Autism spectrum disorder or schizophrenia
+rs13212562	Autism spectrum disorder or schizophrenia
+rs13218591	Autism spectrum disorder or schizophrenia
+rs13240464	Autism spectrum disorder or schizophrenia
+rs133047	Autism spectrum disorder or schizophrenia
+rs1339227	Autism spectrum disorder or schizophrenia
+rs1353545	Autism spectrum disorder or schizophrenia
+rs138748649	Autism spectrum disorder or schizophrenia
+rs138850297	Autism spectrum disorder or schizophrenia
+rs138984909	Autism spectrum disorder or schizophrenia
+rs139099016	Autism spectrum disorder or schizophrenia
+rs139480376	Autism spectrum disorder or schizophrenia
+rs139547629	Autism spectrum disorder or schizophrenia
+rs140364877	Autism spectrum disorder or schizophrenia
+rs140502984	Autism spectrum disorder or schizophrenia
+rs140849564	Autism spectrum disorder or schizophrenia
+rs140865314	Autism spectrum disorder or schizophrenia
+rs141342723	Autism spectrum disorder or schizophrenia
+rs142520578	Autism spectrum disorder or schizophrenia
+rs142601889	Autism spectrum disorder or schizophrenia
+rs142790902	Autism spectrum disorder or schizophrenia
+rs142972412	Autism spectrum disorder or schizophrenia
+rs144018888	Autism spectrum disorder or schizophrenia
+rs144304366	Autism spectrum disorder or schizophrenia
+rs144532965	Autism spectrum disorder or schizophrenia
+rs144649399	Autism spectrum disorder or schizophrenia
+rs144660248	Autism spectrum disorder or schizophrenia
+rs144762289	Autism spectrum disorder or schizophrenia
+rs144911693	Autism spectrum disorder or schizophrenia
+rs145076523	Autism spectrum disorder or schizophrenia
+rs145470632	Autism spectrum disorder or schizophrenia
+rs145501595	Autism spectrum disorder or schizophrenia
+rs145547914	Autism spectrum disorder or schizophrenia
+rs145607970	Autism spectrum disorder or schizophrenia
+rs146201420	Autism spectrum disorder or schizophrenia
+rs146827975	Autism spectrum disorder or schizophrenia
+rs147793969	Autism spectrum disorder or schizophrenia
+rs147875011	Autism spectrum disorder or schizophrenia
+rs147976543	Autism spectrum disorder or schizophrenia
+rs148820910	Autism spectrum disorder or schizophrenia
+rs149544854	Autism spectrum disorder or schizophrenia
+rs149721896	Autism spectrum disorder or schizophrenia
+rs149787317	Autism spectrum disorder or schizophrenia
+rs1498232	Autism spectrum disorder or schizophrenia
+rs149915948	Autism spectrum disorder or schizophrenia
+rs149961934	Autism spectrum disorder or schizophrenia
+rs149979052	Autism spectrum disorder or schizophrenia
+rs149998036	Autism spectrum disorder or schizophrenia
+rs150430679	Autism spectrum disorder or schizophrenia
+rs150680405	Autism spectrum disorder or schizophrenia
+rs151267808	Autism spectrum disorder or schizophrenia
+rs169738	Autism spectrum disorder or schizophrenia
+rs171748	Autism spectrum disorder or schizophrenia
+rs17194490	Autism spectrum disorder or schizophrenia
+rs17292804	Autism spectrum disorder or schizophrenia
+rs17659437	Autism spectrum disorder or schizophrenia
+rs1782810	Autism spectrum disorder or schizophrenia
+rs17843707	Autism spectrum disorder or schizophrenia
+rs1793889	Autism spectrum disorder or schizophrenia
+rs180778602	Autism spectrum disorder or schizophrenia
+rs182087722	Autism spectrum disorder or schizophrenia
+rs182908437	Autism spectrum disorder or schizophrenia
+rs184123737	Autism spectrum disorder or schizophrenia
+rs184153866	Autism spectrum disorder or schizophrenia
+rs184538485	Autism spectrum disorder or schizophrenia
+rs184981897	Autism spectrum disorder or schizophrenia
+rs185717927	Autism spectrum disorder or schizophrenia
+rs186129480	Autism spectrum disorder or schizophrenia
+rs186229361	Autism spectrum disorder or schizophrenia
+rs188190243	Autism spectrum disorder or schizophrenia
+rs189600472	Autism spectrum disorder or schizophrenia
+rs1899546	Autism spectrum disorder or schizophrenia
+rs190065944	Autism spectrum disorder or schizophrenia
+rs191239160	Autism spectrum disorder or schizophrenia
+rs191269336	Autism spectrum disorder or schizophrenia
+rs191843781	Autism spectrum disorder or schizophrenia
+rs193267147	Autism spectrum disorder or schizophrenia
+rs1977199	Autism spectrum disorder or schizophrenia
+rs2007044	Autism spectrum disorder or schizophrenia
+rs200986	Autism spectrum disorder or schizophrenia
+rs202906	Autism spectrum disorder or schizophrenia
+rs2115780	Autism spectrum disorder or schizophrenia
+rs2176546	Autism spectrum disorder or schizophrenia
+rs221902	Autism spectrum disorder or schizophrenia
+rs2237234	Autism spectrum disorder or schizophrenia
+rs2293751	Autism spectrum disorder or schizophrenia
+rs2332700	Autism spectrum disorder or schizophrenia
+rs2434529	Autism spectrum disorder or schizophrenia
+rs2507989	Autism spectrum disorder or schizophrenia
+rs2760981	Autism spectrum disorder or schizophrenia
+rs2767713	Autism spectrum disorder or schizophrenia
+rs281768	Autism spectrum disorder or schizophrenia
+rs2828478	Autism spectrum disorder or schizophrenia
+rs2851447	Autism spectrum disorder or schizophrenia
+rs28724212	Autism spectrum disorder or schizophrenia
+rs28758902	Autism spectrum disorder or schizophrenia
+rs2910032	Autism spectrum disorder or schizophrenia
+rs2944591	Autism spectrum disorder or schizophrenia
+rs301798	Autism spectrum disorder or schizophrenia
+rs3020736	Autism spectrum disorder or schizophrenia
+rs3132556	Autism spectrum disorder or schizophrenia
+rs34787248	Autism spectrum disorder or schizophrenia
+rs35131895	Autism spectrum disorder or schizophrenia
+rs35225200	Autism spectrum disorder or schizophrenia
+rs35324223	Autism spectrum disorder or schizophrenia
+rs353547	Autism spectrum disorder or schizophrenia
+rs35828350	Autism spectrum disorder or schizophrenia
+rs35998080	Autism spectrum disorder or schizophrenia
+rs36057735	Autism spectrum disorder or schizophrenia
+rs3617	Autism spectrum disorder or schizophrenia
+rs36350	Autism spectrum disorder or schizophrenia
+rs369637	Autism spectrum disorder or schizophrenia
+rs3735025	Autism spectrum disorder or schizophrenia
+rs3849046	Autism spectrum disorder or schizophrenia
+rs385492	Autism spectrum disorder or schizophrenia
+rs41293179	Autism spectrum disorder or schizophrenia
+rs41293330	Autism spectrum disorder or schizophrenia
+rs41294271	Autism spectrum disorder or schizophrenia
+rs4129585	Autism spectrum disorder or schizophrenia
+rs41563	Autism spectrum disorder or schizophrenia
+rs427691	Autism spectrum disorder or schizophrenia
+rs4309187	Autism spectrum disorder or schizophrenia
+rs4380187	Autism spectrum disorder or schizophrenia
+rs4391122	Autism spectrum disorder or schizophrenia
+rs4523957	Autism spectrum disorder or schizophrenia
+rs4580973	Autism spectrum disorder or schizophrenia
+rs4642619	Autism spectrum disorder or schizophrenia
+rs4702	Autism spectrum disorder or schizophrenia
+rs4713071	Autism spectrum disorder or schizophrenia
+rs4904167	Autism spectrum disorder or schizophrenia
+rs55661361	Autism spectrum disorder or schizophrenia
+rs56223946	Autism spectrum disorder or schizophrenia
+rs57709857	Autism spectrum disorder or schizophrenia
+rs59574136	Autism spectrum disorder or schizophrenia
+rs5995756	Autism spectrum disorder or schizophrenia
+rs59979824	Autism spectrum disorder or schizophrenia
+rs6071524	Autism spectrum disorder or schizophrenia
+rs61472021	Autism spectrum disorder or schizophrenia
+rs61747867	Autism spectrum disorder or schizophrenia
+rs61789073	Autism spectrum disorder or schizophrenia
+rs61847307	Autism spectrum disorder or schizophrenia
+rs61884307	Autism spectrum disorder or schizophrenia
+rs62378245	Autism spectrum disorder or schizophrenia
+rs6434928	Autism spectrum disorder or schizophrenia
+rs6704768	Autism spectrum disorder or schizophrenia
+rs67756423	Autism spectrum disorder or schizophrenia
+rs6803008	Autism spectrum disorder or schizophrenia
+rs6855246	Autism spectrum disorder or schizophrenia
+rs6921919	Autism spectrum disorder or schizophrenia
+rs6939532	Autism spectrum disorder or schizophrenia
+rs6940116	Autism spectrum disorder or schizophrenia
+rs707939	Autism spectrum disorder or schizophrenia
+rs7122181	Autism spectrum disorder or schizophrenia
+rs7129727	Autism spectrum disorder or schizophrenia
+rs7184114	Autism spectrum disorder or schizophrenia
+rs7191183	Autism spectrum disorder or schizophrenia
+rs72687362	Autism spectrum disorder or schizophrenia
+rs72761442	Autism spectrum disorder or schizophrenia
+rs72934570	Autism spectrum disorder or schizophrenia
+rs72986630	Autism spectrum disorder or schizophrenia
+rs73416724	Autism spectrum disorder or schizophrenia
+rs7432375	Autism spectrum disorder or schizophrenia
+rs7521492	Autism spectrum disorder or schizophrenia
+rs75782365	Autism spectrum disorder or schizophrenia
+rs75968099	Autism spectrum disorder or schizophrenia
+rs760648	Autism spectrum disorder or schizophrenia
+rs764284	Autism spectrum disorder or schizophrenia
+rs76994193	Autism spectrum disorder or schizophrenia
+rs7746199	Autism spectrum disorder or schizophrenia
+rs77502336	Autism spectrum disorder or schizophrenia
+rs7752195	Autism spectrum disorder or schizophrenia
+rs7752643	Autism spectrum disorder or schizophrenia
+rs7801375	Autism spectrum disorder or schizophrenia
+rs78110044	Autism spectrum disorder or schizophrenia
+rs7819570	Autism spectrum disorder or schizophrenia
+rs7837860	Autism spectrum disorder or schizophrenia
+rs78696503	Autism spectrum disorder or schizophrenia
+rs7893279	Autism spectrum disorder or schizophrenia
+rs7907645	Autism spectrum disorder or schizophrenia
+rs8009147	Autism spectrum disorder or schizophrenia
+rs8032315	Autism spectrum disorder or schizophrenia
+rs8042374	Autism spectrum disorder or schizophrenia
+rs8054556	Autism spectrum disorder or schizophrenia
+rs880446	Autism spectrum disorder or schizophrenia
+rs911186	Autism spectrum disorder or schizophrenia
+rs9267057	Autism spectrum disorder or schizophrenia
+rs9269271	Autism spectrum disorder or schizophrenia
+rs9270074	Autism spectrum disorder or schizophrenia
+rs9273177	Autism spectrum disorder or schizophrenia
+rs9274299	Autism spectrum disorder or schizophrenia
+rs9274390	Autism spectrum disorder or schizophrenia
+rs9274657	Autism spectrum disorder or schizophrenia
+rs9292918	Autism spectrum disorder or schizophrenia
+rs9348739	Autism spectrum disorder or schizophrenia
+rs9368481	Autism spectrum disorder or schizophrenia
+rs9461856	Autism spectrum disorder or schizophrenia
+rs9467711	Autism spectrum disorder or schizophrenia
+rs9469174	Autism spectrum disorder or schizophrenia
+rs9607782	Autism spectrum disorder or schizophrenia
+rs9636107	Autism spectrum disorder or schizophrenia
+rs9656169	Autism spectrum disorder or schizophrenia
+rs9879311	Autism spectrum disorder or schizophrenia
+rs1006737	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs10250997	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs10255295	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs10503253	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs10860392	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs10873998	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs10994359	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs10994397	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs1104918	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs1107592	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs11152369	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs11191454	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs11191580	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs11587682	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs11731175	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs11827962	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs12325410	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs12443954	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs12576775	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs12871532	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs12966547	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs13072940	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs13418455	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs1480380	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs1533087	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs159788	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs1625579	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs1715	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs17662626	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs2021722	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs2186903	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs2252865	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs2297909	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs2310173	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs249954	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs2535629	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs2609653	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs2675968	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs2721800	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs2799573 	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs3132581	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs360932	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs363598	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs3791556	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs447	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs4650608	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs4730430	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs4741652	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs548181	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs609412	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs6435387	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs6602217	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs6694545	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs6765687	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs6867265	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs6990255	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs7004633	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs703970	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs7069733	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs7254215	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs7565792	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs7597593	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs7700191	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs7799006	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs7849973	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs7914558	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs7948661	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs8058295	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs8321	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs9275524	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs9297357	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs9371601	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs9834970	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs9951150	Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+rs11641365	Autism spectrum disorder-related traits
+rs1409313	Autism spectrum disorder-related traits
+rs1867503	Autism spectrum disorder-related traits
+rs2393895	Autism spectrum disorder-related traits
+rs4773054	Autism spectrum disorder-related traits
+rs11735612	Obsessive-compulsive disorder or autism spectrum disorder
+rs12045323	Obsessive-compulsive disorder or autism spectrum disorder
+rs17080138	Obsessive-compulsive disorder or autism spectrum disorder
+rs2075824	Obsessive-compulsive disorder or autism spectrum disorder
+rs4785741	Obsessive-compulsive disorder or autism spectrum disorder
+rs59093387	Obsessive-compulsive disorder or autism spectrum disorder
+rs6034559	Obsessive-compulsive disorder or autism spectrum disorder
+rs72722664	Obsessive-compulsive disorder or autism spectrum disorder
+rs75216060	Obsessive-compulsive disorder or autism spectrum disorder
+rs767619	Obsessive-compulsive disorder or autism spectrum disorder
+rs78907274	Obsessive-compulsive disorder or autism spectrum disorder
+rs8032150	Obsessive-compulsive disorder or autism spectrum disorder
+rs9731813	Obsessive-compulsive disorder or autism spectrum disorder
+rs2898883	Restricted and repetitive behaviours in autism spectrum disorder
+rs10444533	Social autistic-like traits
+rs11575088	Social autistic-like traits
+rs11947645	Social autistic-like traits
+rs16946931	Social autistic-like traits
+rs533581	Social autistic-like traits
+rs927821	Social autistic-like traits
+rs11109142	Social communication problems
+rs11819364	Social communication problems
+rs12342373	Social communication problems
+rs1539809	Social communication problems
+rs1557765	Social communication problems
+rs1581057 	Social communication problems
+rs17750321	Social communication problems
+rs17828380	Social communication problems
+rs1834180	Social communication problems
+rs2304003	Social communication problems
+rs2352908	Social communication problems
+rs2839874	Social communication problems
+rs3761168	Social communication problems
+rs4218	Social communication problems
+rs4453791	Social communication problems
+rs4460308	Social communication problems
+rs4622507	Social communication problems
+rs4905226	Social communication problems
+rs7199390	Social communication problems
+rs9257616	Social communication problems
+rs9942541	Social communication problems

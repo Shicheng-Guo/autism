@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/gpfs/home/guosa/hpc/tools/aloft/aloft-annotate/aloft", line 1530, in <module>
+    main(sys.argv[0], sys.argv[1:])
+  File "/gpfs/home/guosa/hpc/tools/aloft/aloft-annotate/aloft", line 904, in main
+    run_vat([programName, args.vcf, vatPath, args.annotation_interval, args.annotation_sequence], VERBOSE)
+  File "/mnt/bigdata/Genetic/Projects/shg047/tools/aloft/aloft-annotate/vat_run.py", line 104, in run_vat
+    indelInputFile.write("\t".join(lineComponents) + "\n")
+IOError: [Errno 116] Stale file handle

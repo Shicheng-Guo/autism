@@ -1,0 +1,77 @@
+beagle.16May19.351.jar (version 5.0)
+Copyright (C) 2014-2018 Brian L. Browning
+Enter "java -jar beagle.16May19.351.jar" to list command line argument
+Start time: 11:59 PM CDT on 13 Jun 2019
+
+Command line: java -Xmx29127m -jar beagle.16May19.351.jar
+  gt=All_samples_Exome_QC.temp.vcf.recode.clean.chr21.vcf.recode.vcf
+  ref=/home/guosa/hpc/db/hg19/beagle/EUR/chr21.1kg.phase3.v5a.EUR.vcf.gz
+  map=/home/guosa/hpc/db/hg19/beagle/plink.chr21.GRCh37.map
+  out=All_samples_Exome_QC.chr21.vcf
+
+Reference samples:         503
+Study samples:             256
+
+Window 1 (21:9411302-36279593)
+Reference markers:     276,406
+Study markers:          12,502
+
+Burnin  iteration 1:           3 seconds
+Burnin  iteration 2:           2 seconds
+Burnin  iteration 3:           2 seconds
+Burnin  iteration 4:           2 seconds
+Burnin  iteration 5:           3 seconds
+Burnin  iteration 6:           2 seconds
+
+Phasing iteration 1:           2 seconds
+Phasing iteration 2:           2 seconds
+Phasing iteration 3:           2 seconds
+Phasing iteration 4:           2 seconds
+Phasing iteration 5:           2 seconds
+Phasing iteration 6:           2 seconds
+Phasing iteration 7:           2 seconds
+Phasing iteration 8:           2 seconds
+Phasing iteration 9:           2 seconds
+Phasing iteration 10:          2 seconds
+Phasing iteration 11:          2 seconds
+Phasing iteration 12:          2 seconds
+
+Imputation time:               19 seconds
+
+Window 2 (21:33670395-48119700)
+Reference markers:     179,559
+Study markers:          11,294
+
+Burnin  iteration 1:           2 seconds
+Burnin  iteration 2:           2 seconds
+Burnin  iteration 3:           2 seconds
+Burnin  iteration 4:           2 seconds
+Burnin  iteration 5:           2 seconds
+Burnin  iteration 6:           2 seconds
+
+Phasing iteration 1:           2 seconds
+Phasing iteration 2:           2 seconds
+Phasing iteration 3:           2 seconds
+Phasing iteration 4:           2 seconds
+Phasing iteration 5:           2 seconds
+Phasing iteration 6:           2 seconds
+Phasing iteration 7:           1 second
+Phasing iteration 8:           2 seconds
+Phasing iteration 9:           1 second
+Phasing iteration 10:          1 second
+Phasing iteration 11:          1 second
+Phasing iteration 12:          1 second
+
+Imputation time:               8 seconds
+
+Cumulative Statistics:
+
+Reference markers:     427,409
+Study markers:          21,990
+
+Haplotype phasing time:        1 minute 5 seconds
+Imputation time:               8 seconds
+Total time:                    1 minute 39 seconds
+
+End time: 12:00 AM CDT on 14 Jun 2019
+beagle.16May19.351.jar finished

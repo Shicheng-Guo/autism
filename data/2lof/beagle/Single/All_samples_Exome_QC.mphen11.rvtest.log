@@ -1,0 +1,16 @@
+[INFO]	Program version: 20171009
+[INFO]	Git Version: 803542afea4ead772c914520e3f4e960146765b6
+[INFO]	Parameters BEGIN
+# ParameterList created by guosa on compute-011 at Fri Jun 14 17:50:47 2019
+--inVcf "All_samples_Exome_QC.gz" --out "All_samples_Exome_QC.mphen11.rvtest" --pheno "All_samples_Exome_QC.phen" --mpheno "11" --single "wald,score"
+[INFO]	Parameters END
+[INFO]	Analysis started at: Fri Jun 14 17:50:47 2019
+[INFO]	Loaded [ 256 ] samples from genotype files
+[INFO]	Loaded [ 256 ] sample phenotypes
+[INFO]	Loaded 0 male, 0 female and 256 sex-unknown samples from All_samples_Exome_QC.phen
+[INFO]	Analysis begins with [ 256 ] samples...
+[INFO]	Impute missing genotype to mean (by default)
+[INFO]	Analysis started
+[INFO]	Analyzed [ 1596289 ] variants
+[INFO]	Analysis ends at: Fri Jun 14 17:54:34 2019
+[INFO]	Analysis took 227 seconds

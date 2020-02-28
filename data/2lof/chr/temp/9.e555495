@@ -1,0 +1,12 @@
+Java HotSpot(TM) 64-Bit Server VM warning: Insufficient space for shared memory file:
+   21496
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+
+
+NEW VERSION!
+	There is a new SnpEff version available: 
+		Version      : 4.4
+		Release date : 2019-01-26
+		Download URL : http://sourceforge.net/projects/snpeff/files/snpEff_latest_core.zip
+

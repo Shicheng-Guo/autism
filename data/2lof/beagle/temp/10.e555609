@@ -1,0 +1,64 @@
+The following parameters are available.  Ones with "[]" are in effect:
+
+Available Options
+      Basic Input/Output: --inVcf [All_samples_Exome_QC.chr10.vcf.vcf.gz]
+                          --inBgen [], --inBgenSample [], --inKgg []
+                          --out [All_samples_Exome_QC.chr10.rvtest], --outputRaw
+       Specify Covariate: --covar [], --covar-name [], --sex
+       Specify Phenotype: --pheno [All_samples_Exome_QC.phen], --inverseNormal
+                          --useResidualAsPhenotype, --mpheno [], --pheno-name []
+                          --qtl, --multiplePheno []
+        Specify Genotype: --dosage [], --multipleAllele
+    Chromosome X Options: --xLabel [], --xParRegion []
+           People Filter: --peopleIncludeID [], --peopleIncludeFile []
+                          --peopleExcludeID [], --peopleExcludeFile []
+             Site Filter: --rangeList [], --rangeFile [], --siteFile []
+                          --siteDepthMin [], --siteDepthMax [], --siteMACMin []
+                          --annoType []
+         Genotype Filter: --indvDepthMin [], --indvDepthMax [], --indvQualMin []
+       Association Model: --single [wald,score], --burden [], --vt []
+                          --kernel [], --meta []
+     Family-based Models: --kinship [], --xHemiKinship [], --kinshipEigen []
+                          --xHemiKinshipEigen [], --boltPlink []
+                          --boltPlinkNoCheck
+          Grouping Unit : --geneFile [], --gene [], --setList [], --setFile []
+                          --set []
+        Frequency Cutoff: --freqUpper [], --freqLower []
+            Missing Data: --impute [], --imputePheno, --imputeCov
+    Conditional Analysis: --condition []
+     Auxiliary Functions: --noweb, --hide-covar, --numThread [], --outputID
+                          --help
+
+Effective Options
+    --inVcf All_samples_Exome_QC.chr10.vcf.vcf.gz
+    --out All_samples_Exome_QC.chr10.rvtest
+    --pheno All_samples_Exome_QC.phen
+    --single wald,score
+
+connect() timeout zhanxw.com:80
+Retrieve remote version failed, use '--noweb' to skip.
+[INFO]	Program version: 20171009
+[INFO]	Analysis started at: Fri Jun 14 16:46:26 2019
+[INFO]	Loaded [ 256 ] samples from genotype files
+[INFO]	Loaded [ 256 ] sample phenotypes
+[INFO]	Loaded 0 male, 0 female and 256 sex-unknown samples from All_samples_Exome_QC.phen
+[INFO]	Loaded 137 cases, 105 controls, and 14 missing phenotypes
+[WARN]	-- Enabling binary phenotype mode -- 
+[INFO]	Analysis begins with [ 242 ] samples...
+[WARN]	Total [ 14 ] samples are dropped from VCF file due to missing phenotype (not case/control).
+[WARN]	Drop sample [ u810010s_u810010s ] from VCF file due to missing phenotype (not case/control)
+[WARN]	Drop sample [ u810013s_u810013s ] from VCF file due to missing phenotype (not case/control)
+[WARN]	Drop sample [ u810015s_u810015s ] from VCF file due to missing phenotype (not case/control)
+[WARN]	Drop sample [ u810016s_u810016s ] from VCF file due to missing phenotype (not case/control)
+[WARN]	Drop sample [ u810018s_u810018s ] from VCF file due to missing phenotype (not case/control)
+[WARN]	Drop sample [ u810023s_u810023s ] from VCF file due to missing phenotype (not case/control)
+[WARN]	Drop sample [ u810025s_u810025s ] from VCF file due to missing phenotype (not case/control)
+[WARN]	Drop sample [ u810027s_u810027s ] from VCF file due to missing phenotype (not case/control)
+[WARN]	Drop sample [ u810029s_u810029s ] from VCF file due to missing phenotype (not case/control)
+[WARN]	Drop sample [ u810032s_u810032s ] from VCF file due to missing phenotype (not case/control)
+[WARN]	Skip outputting additional [ 4 ] samples due to missing phenotype (not case/control).
+[INFO]	Impute missing genotype to mean (by default)
+[INFO]	Analysis started
+[INFO]	Analyzed [ 82237 ] variants
+[INFO]	Analysis ends at: Fri Jun 14 16:46:43 2019
+[INFO]	Analysis took 17 seconds

@@ -1,0 +1,1 @@
+[W::vcf_parse] Contig '20' is not defined in the header. (Quick workaround: index the file with tabix.)

@@ -1,0 +1,6 @@
+mkdir: cannot create directory `./temp/chr7': File exists
+Exception in thread "main" java.lang.IllegalArgumentException: File does not exist: ./chr/All_samples_Exome_QC.temp.vcf.recode.clean.chr7.vcf.recode.vcf
+	at blbutil.Validate.getFile(Validate.java:141)
+	at main.Par.<init>(Par.java:122)
+	at main.Main.parameters(Main.java:307)
+	at main.Main.main(Main.java:107)
